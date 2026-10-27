@@ -1,0 +1,509 @@
+revision_id,parent_revision_id,username,timestamp,article_size_bytes,edit_comment,temp,anon,commenthidden,is_anonymous,comment_length
+1382144611,1381808176,Comp.arch,2026-10-26 21:56:07+00:00,144917,"Three security updates just this month. I.e. three for 3.14.x, and three for 3.15.x and also for all the other supported i.e. down to 3.11.",,,,False,139
+1381808176,1381807106,Comp.arch,2026-10-24 22:50:50+00:00,144559,,,,,False,0
+1381807106,1381806937,Comp.arch,2026-10-24 22:41:39+00:00,144293,/* History */,,,,False,13
+1381806937,1381613285,Comp.arch,2026-10-24 22:40:12+00:00,144322,"Python 3.15.1 one of frequent ""expedited security releases"" this month.",,,,False,71
+1381613285,1381585435,RMCD bot,2026-10-23 17:52:20+00:00,144060,Removing notice of move discussion,,,,False,34
+1381585435,1381274594,RMCD bot,2026-10-23 14:16:21+00:00,144186,Notifying subject page of move discussion on [[Talk:Python (programming language)#Requested move 23 October 2026|Talk:Python (programming language)]],,,,False,149
+1381274594,1381271368,T8y,2026-10-21 06:28:29+00:00,144060,"Correct dictionary key requirements: hashability, not immutability.",,,,False,67
+1381271368,1381270716,T8y,2026-10-21 05:35:21+00:00,143681,Revert misleading citation introduced in [[Special:Diff/1381269880]]; the cited source does not support the title.,,,,False,114
+1381270716,1381269880,T8y,2026-10-21 05:23:54+00:00,143138,Revert revision [[Special:Diff/1381269714]]: Incorrect 2019 Python Steering Council members; contradicts PEP 8100.,,,,False,114
+1381269880,1381269714,~2026-56033-10,2026-10-21 05:10:28+00:00,143243,added source for new python council members,,,,False,43
+1381269714,1381269565,~2026-56033-10,2026-10-21 05:07:28+00:00,143786,Attemtping to add source changes are reverted before source can be added please give time to attatch source,,,,False,107
+1381269565,1381269237,Untamed1910,2026-10-21 05:05:31+00:00,143681,Undid revision [[Special:Diff/1381269237|1381269237]] by [[Special:Contributions/~2026-56033-10|~2026-56033-10]] ([[User talk:~2026-56033-10|talk]]) Removing unsourced content,,,,False,175
+1381269237,1381267391,~2026-56033-10,2026-10-21 05:00:58+00:00,143786,Undid revision [[Special:Diff/1381267391|1381267391]] by [[Special:Contributions/Gadfium|Gadfium]] ([[User talk:Gadfium|talk]]),,,,False,127
+1381267391,1381265802,Gadfium,2026-10-21 04:32:14+00:00,143681,"rv, unsourced",,,,False,13
+1381265802,1381220708,~2026-56033-10,2026-10-21 04:06:51+00:00,143786,The council came out public this morning names of the members were added in my edit,,,,False,83
+1381220708,1380801896,Уникальное имя,2026-10-20 19:47:39+00:00,143681,added in builtin section type frozendict that was introduced in python 3.15,,,,False,75
+1380801896,1379911005,Apocheir,2026-10-18 00:26:32+00:00,143579,"/* Limitations of the reference implementation */ rm, cited to crap conference proceedings that don't even bother to specify what version of CPython they used",,,,False,158
+1379911005,1379910755,Untamed1910,2026-10-12 16:40:24+00:00,144709,Reverted 1 edit by [[Special:Contributions/~2026-54973-53|~2026-54973-53]] ([[User talk:~2026-54973-53|talk]]) to last revision by Crtbob,,,,False,137
+1379910755,1379554758,~2026-54973-53,2026-10-12 16:38:37+00:00,144750,iter,,,,False,4
+1379554758,1379554600,Crtbob,2026-10-10 17:56:06+00:00,144709,[[WP:CVPI|Interceptor]]: Reverting non-constructive edits by [[Special:Contributions/User2026u67hv7n|User2026u67hv7n]],,,,False,118
+1379554600,1379536712,User2026u67hv7n,2026-10-10 17:54:49+00:00,144710,/* */,,,,False,5
+1379536712,1379382087,Kartheek1025,2026-10-10 15:31:31+00:00,144709,/* Libraries */ Formatting and spacing in the Libraries section,,,,False,63
+1379382087,1379380903,AnomieBOT,2026-10-09 17:15:52+00:00,144706,"Rescuing orphaned refs (""Python3.15-whatsnew"" from rev 1378728329)",,,,False,66
+1379380903,1378728329,Comp.arch,2026-10-09 17:05:20+00:00,144578,3.15.0 is out.,,,,False,14
+1378728329,1378089129,D&DFan10123,2026-10-05 22:37:24+00:00,145321,I added the exact expected release date for 3.15,,,,False,48
+1378089129,1377929544,Comp.arch,2026-10-02 22:31:00+00:00,145099,"Surprise rc3, please test it.  https://discuss.python.org/t/python-3-15-following-tradition-lets-have-a-surprise-rc3/109313",,,,False,123
+1377929544,1377927693,Comp.arch,2026-10-02 00:35:07+00:00,144806,"Latest ""expedited security release"". Likely applies to all recently released, so all should upgrade; e.g. from 3.10.",,,,False,116
+1377927693,1377925895,Comp.arch,2026-10-02 00:24:18+00:00,144599,"/* Languages influenced by Python */ Mojo is not a superset of Python, at least not yet...",,,,False,90
+1377925895,1377923452,Comp.arch,2026-10-02 00:16:40+00:00,144320,"Assume ""projects"" a synonym with packages at PyPI",,,,False,49
+1377923452,1377922121,Comp.arch,2026-10-02 00:05:13+00:00,144357,,,,,False,0
+1377922121,1377918937,Comp.arch,2026-10-01 23:59:27+00:00,144310,[[Cross-platform]] likely less helpful by now,,,,False,45
+1377918937,1377918032,Comp.arch,2026-10-01 23:40:31+00:00,144221,,,,,False,0
+1377918032,1377915555,Comp.arch,2026-10-01 23:35:54+00:00,144080,"python3.14t for the ""free-threaded mode"" build with ""--disable-gil"" I guess. ""The GIL Makes Deploying Python AI Models Difficult"".",,,,False,130
+1377915555,1377913542,Comp.arch,2026-10-01 23:22:59+00:00,143994,"Now ""free-threaded"". [[Multithreading (computer architecture)]] likely an inferior link, about hardware.",,,,False,104
+1377913542,1377909705,Comp.arch,2026-10-01 23:05:43+00:00,143766,"Simplify. [[Nuitka]] info likely outdated, I only minimally updated. And [[OpenVMS]] seemingly no longer has Python support, that is for current 3.11+. ""Python 3.11 and newer versions use C11 without optional features. The public C API should be compatible with C99 and C++.""",,,,False,275
+1377909705,1377547374,Comp.arch,2026-10-01 22:35:02+00:00,143665,"3.15.0 final expected today, and 3.10.x already EOLed. ""If you are still using Python 3.10, please plan your upgrade to a supported version.  .. Python 3.10.22 and 3.11.17 are source-only. [and] .. Python 3.12.15 is also a source-only security release, with security support continuing until October 2028. Python 3.13.16 is the last full maintenance release of 3.13 ..  Python 3.14.8 is a maintenance release, and both 3.13.16 and 3.14.8 include binary installers"".",,,,False,465
+1377547374,1377273173,Isomorphisms,2026-09-29 23:40:53+00:00,143630,/* Code examples */ Added a check that the text inputted is a number,,,,False,68
+1377273173,1377246867,Izno,2026-09-28 17:04:24+00:00,143556,fix,,,,False,3
+1377246867,1377245915,MusikBot II,2026-09-28 14:00:28+00:00,143556,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]]),,,,False,94
+1377245915,1376690955,~2026-52179-86,2026-09-28 13:53:42+00:00,143583,,,,,False,0
+1376690955,1376500596,Comp.arch,2026-09-25 18:06:18+00:00,143583,,,,,False,0
+1376500596,1374673393,LionmerterTHE,2026-09-24 14:46:22+00:00,143574,Correct typo: intented → intended (Typo Review; manually reviewed),,,,False,66
+1374673393,1374673264,MrOllie,2026-09-13 12:32:06+00:00,143574,cut inline external links / namedrops,,,,False,37
+1374673264,1374603685,MrOllie,2026-09-13 12:30:43+00:00,143704,"Reverted 1 edit by [[Special:Contributions/Smelly hippopotamus|Smelly hippopotamus]] ([[User talk:Smelly hippopotamus|talk]]): Unreliable sources - github, blogs, and Wikipedia as a citation for itself",,,,False,201
+1374603685,1373615803,Smelly hippopotamus,2026-09-13 02:07:18+00:00,149406,wrote a section on packaging and distribution,,,,False,45
+1373615803,1373614660,Comp.arch,2026-09-06 22:47:03+00:00,143704,/* History */,,,,False,13
+1373614660,1373613520,Comp.arch,2026-09-06 22:37:27+00:00,143643,/* History */,,,,False,13
+1373613520,1372324602,Comp.arch,2026-09-06 22:28:33+00:00,143521,rc2 is out.,,,,False,11
+1372324602,1371571252,FrescoBot,2026-08-31 07:21:28+00:00,143324,Bot: [[User:FrescoBot/Links|link syntax]],,,,False,41
+1371571252,1371569206,Gadfium,2026-08-27 04:41:16+00:00,143334,I don't see anything in the source to support this,,,,False,50
+1371569206,1371559118,MathMan4,2026-08-27 04:29:11+00:00,143386,,,,,False,0
+1371559118,1371559098,The Bushranger,2026-08-27 03:22:27+00:00,143334,Adding {{pp-protected}},,,,False,23
+1371559098,1371550917,The Bushranger,2026-08-27 03:22:18+00:00,143307,"Protected ""[[Python (programming language)]]"": Persistent [[WP:Disruptive editing|disruptive editing]]; requested at [[WP:RfPP]] ([Edit=Require autoconfirmed or confirmed access] (expires 03:22, 27 September 2026 (UTC)))",,,,False,220
+1371550917,1371550714,~2026-46569-20,2026-08-27 02:34:50+00:00,143307,/* Naming */,,,,False,12
+1371550714,1370949313,~2026-46569-20,2026-08-27 02:33:46+00:00,143308,/* Naming */,,,,False,12
+1370949313,1370949082,Augmented Seventh,2026-08-23 22:00:40+00:00,143307,[[WP:CVPI|Interceptor]]: Reverting non-constructive edits by [[Special:Contributions/Mikey Fletcher|Mikey Fletcher]],,,,False,116
+1370949082,1370485044,Mikey Fletcher,2026-08-23 21:59:32+00:00,143365,/* */,,,,False,5
+1370485044,1370210810,AdaCiccone,2026-08-21 10:55:14+00:00,143307,[[CAT:DUPCIT]],,,,False,14
+1370210810,1370204093,McSly,2026-08-19 19:42:28+00:00,144050,Undid revision [[Special:Diff/1370204093|1370204093]] by [[Special:Contributions/~2026-41888-44|~2026-41888-44]] ([[User talk:~2026-41888-44|talk]]) Correct and properly source. And not UNDUE,,,,False,191
+1370204093,1370099868,~2026-41888-44,2026-08-19 18:52:05+00:00,143627,Javascript and Java are arguably more widely taught but their articles don't highlight this. WP:UNDUE,,,,False,101
+1370099868,1369260265,Pietrus1,2026-08-19 03:00:44+00:00,144050,Tagged [[WP:DUPREF|duplicate citations]] using [[User:Polygnotus/DuplicateReferences|DuplicateReferences]],,,,False,106
+1369260265,1368824895,Comp.arch,2026-08-13 21:56:44+00:00,143823,/* History */,,,,False,13
+1368824895,1368471791,~2026-41888-44,2026-08-11 08:55:24+00:00,143759,"/* Design philosophy and features */ url-status dead for ref ""The-Most-Controversial-Python-Walrus-Operator""",,,,False,108
+1368471791,1368337110,Alexanderino,2026-08-09 06:23:09+00:00,143757,desing -> design; em dash; correct citation type; remove deprecated parameter referencing now-dead [[Help_talk:Citation_Style_1/Archive_102#deprecate_%7Cciteseerx=_?|citeseerx]] service,,,,False,185
+1368337110,1368334780,Lokiretro,2026-08-08 13:22:18+00:00,143777,Undid revision [[Special:Diff/1368334780|1368334780]] by [[Special:Contributions/~2026-43600-97|~2026-43600-97]] ([[User talk:~2026-43600-97|talk]]) Removing unsourced content,,,,False,175
+1368334780,1367902322,~2026-43600-97,2026-08-08 13:01:06+00:00,143775,I changed the python version because based on recent studies it is updated,,,,False,74
+1367902322,1367901460,Comp.arch,2026-08-05 21:48:29+00:00,143777,/* History */,,,,False,13
+1367901460,1366771536,Comp.arch,2026-08-05 21:42:23+00:00,143768,rc1,,,,False,3
+1366771536,1366769957,McSly,2026-07-30 03:11:13+00:00,143762,Reverted edit by [[Special:Contribs/~2026-42231-19|~2026-42231-19]] ([[User talk:~2026-42231-19|talk]]) to last version by ~2026-41436-21,,,,False,137
+1366769957,1365917903,~2026-42231-19,2026-07-30 02:54:12+00:00,143774,DirectJL,,,,False,8
+1365917903,1365917669,~2026-41436-21,2026-07-25 05:02:04+00:00,143762,/* Statements and control flow */,,,,False,33
+1365917669,1365628431,~2026-41436-21,2026-07-25 05:00:09+00:00,143757,/* Statements and control flow */,,,,False,33
+1365628431,1365597571,UtherSRG,2026-07-23 14:37:18+00:00,143762,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/~2026-40937-40|~2026-40937-40]] ([[User talk:~2026-40937-40|talk]]): Rv - test/grammar,,,,False,150
+1365597571,1365430661,~2026-40937-40,2026-07-23 10:40:24+00:00,143763,/* Performance */,,,,False,17
+1365430661,1364414913,Jcubic,2026-07-22 10:39:50+00:00,143762,/* External links */ an official documentary about Python,,,,False,57
+1364414913,1364412366,Johnuniq,2026-07-16 11:05:41+00:00,143536,Undid revision [[Special:Diff/1364412366|1364412366]] by [[Special:Contributions/~2026-40011-94|~2026-40011-94]] ([[User talk:~2026-40011-94|talk]]) what?,,,,False,154
+1364412366,1364026102,~2026-40011-94,2026-07-16 10:40:07+00:00,143506,,,,,False,0
+1364026102,1364025986,Asukite,2026-07-14 01:37:43+00:00,143536,Rollback edit(s) by [[Special:Contributions/~2026-39773-13|~2026-39773-13]] ([[User_talk:~2026-39773-13|talk]]): Vandalism (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]],,,,False,174
+1364025986,1364004206,~2026-39773-13,2026-07-14 01:36:30+00:00,143536,,,,,False,0
+1364004206,1363422646,Comp.arch,2026-07-13 22:02:25+00:00,143536,,,,,False,0
+1363422646,1363422055,Grayfell,2026-07-10 02:35:15+00:00,143520,"Avid weasel words. None of these are reliable sources for such vague claims. Focus on neutrally summarizing reliable, [[WP:IS]] without original research or editorializing.",,,,False,172
+1363422055,1363146735,Comp.arch,2026-07-10 02:30:11+00:00,145623,Rust language,,,,False,13
+1363146735,1363146643,B.J,2026-07-08 10:03:39+00:00,145621,Reverted edits by [[Special:Contributions/~2026-38908-47|~2026-38908-47]] ([[User talk:~2026-38908-47|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.14),,,,False,163
+1363146643,1363014649,~2026-38908-47,2026-07-08 10:02:35+00:00,145624,/* Code examples */,,,,False,19
+1363014649,1363014618,Frost,2026-07-07 15:16:03+00:00,145621,Reverted edits by [[Special:Contributions/~2026-38640-81|~2026-38640-81]] ([[User talk:~2026-38640-81|talk]]) ([[WP:HG|HG]]) (3.4.14),,,,False,133
+1363014618,1362845995,~2026-38640-81,2026-07-07 15:15:47+00:00,145626,/* top */,,,,False,9
+1362845995,1362845884,Frost,2026-07-06 15:42:54+00:00,145621,Reverted edits by [[Special:Contributions/~2026-38318-55|~2026-38318-55]] ([[User talk:~2026-38318-55|talk]]): [[WP:SANDBOX|editing tests]] ([[WP:HG|HG]]) (3.4.14),,,,False,163
+1362845884,1361791252,~2026-38318-55,2026-07-06 15:41:56+00:00,145627,/* */ Ficed typo,,,,False,16
+1361791252,1361790732,Peaceray,2026-06-30 03:00:29+00:00,145621,Rollback edit(s) by [[Special:Contributions/Kripa4rk|Kripa4rk]] ([[User_talk:Kripa4rk|talk]]): Reverting [[WP:AGF|good faith]] edits: see [[WP:NOELBODY]] [[w:en:WP:RW|(RW 16.1)]],,,,False,178
+1361790732,1361592401,Kripa4rk,2026-06-30 02:55:50+00:00,145790,Adding an actively developed project that can transpire python code to many statically typed programming language.,,,,False,114
+1361592401,1361592285,2argon,2026-06-28 22:44:51+00:00,145621,Undid revision [[Special:Diff/1361592285|1361592285]] by [[Special:Contributions/~2026-37314-11|~2026-37314-11]] ([[User talk:~2026-37314-11|talk]]),,,,False,148
+1361592285,1360923096,~2026-37314-11,2026-06-28 22:44:00+00:00,145921,/* */ Financie coin,,,,False,19
+1360923096,1360923028,B.J,2026-06-24 14:05:24+00:00,145621,Reverted edits by [[Special:Contributions/~2026-36606-07|~2026-36606-07]] ([[User talk:~2026-36606-07|talk]]): not adhering to [[WP:MOS|manual of style]] ([[WP:HG|HG]]) (3.4.14),,,,False,177
+1360923028,1360399625,~2026-36606-07,2026-06-24 14:04:48+00:00,145637,/* */ python football_game.py.,,,,False,30
+1360399625,1360179316,ElegantlyClandestine,2026-06-21 06:58:59+00:00,145621,Use efn for parenthetical info,,,,False,30
+1360179316,1360178327,Graywalls,2026-06-19 18:59:34+00:00,145616,"Undid revision [[Special:Diff/1360178327|1360178327]] by [[Special:Contributions/Graywalls|Graywalls]] ([[User talk:Graywalls|talk]]) never mind. I will find a  sturdier source over ""🇹🇼 /🇨🇦 Analyst, curator, researcher and emerging tech observer. I'm obsessed with with future topics such as A.I, robotics, quantum computing, startups, investing, venture capital, business and technology trends. Self-made, no PhD. Strong opinions.""  blog later.",,,,False,445
+1360178327,1360038378,Graywalls,2026-06-19 18:52:33+00:00,144625,/* Languages influenced by Python */ This is less inferior sourcing to datacenterlearningcenter.substack [[WP:SPS]],,,,False,115
+1360038378,1360038166,Gadfium,2026-06-18 21:10:31+00:00,145616,'url-status=live' is only valid when an archive link is provided,,,,False,64
+1360038166,1359975064,Gadfium,2026-06-18 21:08:44+00:00,145632,Restore logo size,,,,False,17
+1359975064,1359953859,Derek farn,2026-06-18 12:27:14+00:00,145697,"Python naming is not English specific, plain or otherwise",,,,False,57
+1359953859,1359949533,Peterl,2026-06-18 07:58:54+00:00,145656,/* */ link TIOBE index,,,,False,22
+1359949533,1359901649,Battery1001,2026-06-18 06:56:45+00:00,145640,Updated 'alpha' on 3.15 to 'beta'.,,,,False,34
+1359901649,1359855375,Peterl,2026-06-17 23:38:56+00:00,145567,Restored revision 1359847883 by [[Special:Contributions/Peterl|Peterl]] ([[User talk:Peterl|talk]]): See talk,,,,False,109
+1359855375,1359847883,Graywalls,2026-06-17 17:12:10+00:00,144058,"[[WP:SYNTHESIS]], [[WP:OR]]. So, we don't combine various sources and say it has extensive acceptance in so and so community. Sources have to make that claim.",,,,False,158
+1359847883,1359794216,Peterl,2026-06-17 16:11:46+00:00,145567,Restored revision 1358757939 by [[Special:Contributions/Comp.arch|Comp.arch]] ([[User talk:Comp.arch|talk]]): Strong disagree on [[WP:RS]] and [[WP:QS]]. Taking it to talk page,,,,False,176
+1359794216,1359794092,Graywalls,2026-06-17 06:52:34+00:00,142319,/* Design philosophy and features */ this is not encyclopedic,,,,False,61
+1359794092,1359793969,Graywalls,2026-06-17 06:51:05+00:00,142544,Added {{[[Template:Original research|Original research]]}} and {{[[Template:Unreliable sources|Unreliable sources]]}} tags: It appears that some of the statements are conclusions drawn by Wikipedia editors through their original research rather than directly drawn from sources.,,,,False,278
+1359793969,1359754016,Graywalls,2026-06-17 06:49:30+00:00,142447,These are not based on [[WP:RS]],,,,False,32
+1359754016,1359729316,Derek farn,2026-06-17 00:49:32+00:00,144552,"Python can be written by non-English speakers, plain or otherwise",,,,False,65
+1359729316,1358757939,Graywalls,2026-06-16 21:39:12+00:00,144576,/* Languages influenced by Python */ Remove [[WP:QS]] and add less inferior sourcing.,,,,False,85
+1358757939,1358733002,Comp.arch,2026-06-10 19:22:48+00:00,145567,,,,,False,0
+1358733002,1358681702,Comp.arch,2026-06-10 16:12:28+00:00,145533,,,,,False,0
+1358681702,1358681519,Jayupe,2026-06-10 07:10:11+00:00,145476,Reverted 1 edit by [[Special:Contributions/Voidtaqi|Voidtaqi]] ([[User talk:Voidtaqi|talk]]) to last revision by ClueBot NG,,,,False,123
+1358681519,1358681487,Voidtaqi,2026-06-10 07:07:33+00:00,145488,,,,,False,0
+1358681487,1358681475,ClueBot NG,2026-06-10 07:07:06+00:00,145476,"Reverting possible vandalism by [[Special:Contribs/Voidtaqi|Voidtaqi]] to version by Panamitsu. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4535137) (Bot)",,,,False,178
+1358681475,1358473134,Voidtaqi,2026-06-10 07:07:00+00:00,145488,,,,,False,0
+1358473134,1358472943,Panamitsu,2026-06-08 22:36:26+00:00,145476,/* top */oh it's already linked,,,,False,31
+1358472943,1358460416,Panamitsu,2026-06-08 22:34:35+00:00,145480,/* top */ce,,,,False,11
+1358460416,1358459978,Comp.arch,2026-06-08 20:48:35+00:00,145468,/* Typing */,,,,False,12
+1358459978,1358411137,Comp.arch,2026-06-08 20:45:56+00:00,145446,"/* Typing */ bfloat, and machine integers in NumPy.",,,,False,51
+1358411137,1358381956,Peterl,2026-06-08 14:31:16+00:00,144888,/* Typing */ SP,,,,False,15
+1358381956,1358381709,Comp.arch,2026-06-08 09:43:23+00:00,144887,,,,,False,0
+1358381709,1358321923,Comp.arch,2026-06-08 09:40:38+00:00,144885,MICROPY_FLOAT_IMPL_DOUBLE,,,,False,25
+1358321923,1358294036,Comp.arch,2026-06-08 00:23:13+00:00,143928,"VMS doesn't support IEEE floats, Python didn't required it until 3.11 (in 3.10 supported VAX floats, on VAX).",,,,False,109
+1358294036,1358256325,Gadfium,2026-06-07 20:22:24+00:00,143092,/* Typing */ typo,,,,False,17
+1358256325,1358191399,Comp.arch,2026-06-07 16:04:00+00:00,143092,IEEE,,,,False,4
+1358191399,1358191355,ClueBot NG,2026-06-07 04:24:25+00:00,143035,"Reverting possible vandalism by [[Special:Contribs/~2026-33651-14|~2026-33651-14]] to version by Johnuniq. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4530155) (Bot)",,,,False,189
+1358191355,1357729172,~2026-33651-14,2026-06-07 04:24:15+00:00,143371,/* */,,,,False,5
+1357729172,1357728668,Johnuniq,2026-06-04 10:03:16+00:00,143035,Reverted edit by [[Special:Contribs/~2026-33152-61|~2026-33152-61]] ([[User talk:~2026-33152-61|talk]]) to last version by SchlurcherBot,,,,False,136
+1357728668,1357009835,~2026-33152-61,2026-06-04 09:57:17+00:00,143380,"/* */ # WARNING: This will create a ~9 Terabyte file. 
+# Make sure you have enough hard drive space before running!
+
+chunk_size = 1000000000  # 1 billion characters at a time (1 GB)
+total_chunks = 9000      # 9000 * 1 billion = 9 trillion
+
+with open(""nine_trillion.txt"", ""w"") as f:
+    for _ in range(total_chunks):
+        f.write(""@"" * chunk_size)",,,,False,349
+1357009835,1356111341,SchlurcherBot,2026-05-31 06:21:11+00:00,143035,Bot: http → https,,,,False,17
+1356111341,1356086230,Tayste,2026-05-25 20:36:25+00:00,143031,Undid revision [[Special:Diff/1356086230|1356086230]] by [[Special:Contributions/~2026-31195-13|~2026-31195-13]] ([[User talk:~2026-31195-13|talk]]),,,,False,148
+1356086230,1355638498,~2026-31195-13,2026-05-25 17:23:13+00:00,143032,/* Naming */,,,,False,12
+1355638498,1355353009,TheGrapeEscape,2026-05-23 01:01:25+00:00,143031,Fix CS1 maint warn,,,,False,18
+1355353009,1355318821,~2026-30459-58,2026-05-21 10:42:20+00:00,143052,,,,,False,0
+1355318821,1355209486,Shivikag,2026-05-21 05:00:03+00:00,143056,,,,,False,0
+1355209486,1355151197,ERAGON,2026-05-20 14:43:37+00:00,143047,,,,,False,0
+1355151197,1355150895,SystemPhantom,2026-05-20 05:19:34+00:00,143049,Reverting edit(s) by [[Special:Contributions/~2026-30225-12|~2026-30225-12]] ([[User_talk:~2026-30225-12|talk]]) to rev. 1354518890 by OzmoOzmo: Non-constructive edit ([[w:en:WP:UV|UV 0.1.6]]),,,,False,192
+1355150895,1354518890,~2026-30225-12,2026-05-20 05:17:45+00:00,143029,/* References */,,,,False,16
+1354518890,1354346770,OzmoOzmo,2026-05-16 22:55:25+00:00,143049,[[WP:NOPIPE|unpiped]] links using [[User:Nardog/Unpipe|script]],,,,False,63
+1354346770,1354158782,Itzunnatiii,2026-05-15 21:19:34+00:00,143202,Minor grammar and readability improvements,,,,False,42
+1354158782,1354156951,Cicada419,2026-05-14 17:48:42+00:00,143184,"Fixed repetitive phrasing: ""Also"" being used two sentences in a row",,,,False,67
+1354156951,1354156282,Cicada419,2026-05-14 17:36:36+00:00,143191,Fixed grammatical error,,,,False,23
+1354156282,1354155880,Cicada419,2026-05-14 17:31:39+00:00,143204,"Fix minor error: ""oversighted"" replaced by ""overseen""",,,,False,53
+1354155880,1354155442,Cicada419,2026-05-14 17:29:20+00:00,143207,Fixed grammatical error,,,,False,23
+1354155442,1354155102,Cicada419,2026-05-14 17:25:59+00:00,143216,"Fixed more instances of the same typo: ""Enchancement"" replaced by ""Enhancement""",,,,False,79
+1354155102,1354052973,Cicada419,2026-05-14 17:23:33+00:00,143218,Typo fix,,,,False,8
+1354052973,1353983951,Gadfium,2026-05-14 01:17:35+00:00,143219,/* Design philosophy and features */ Fun is covered in the first of the refs at the end of the para.,,,,False,100
+1353983951,1353968001,AnomieBOT,2026-05-13 15:35:44+00:00,143216,Dating maintenance tags: {{Citation needed}},,,,False,44
+1353968001,1353182524,Birthay boy,2026-05-13 13:35:37+00:00,143202,/* Design philosophy and features */ where?,,,,False,43
+1353182524,1353167841,AnomieBOT,2026-05-08 17:54:13+00:00,143183,Dating maintenance tags: {{By whom?}},,,,False,37
+1353167841,1352994654,Birthay boy,2026-05-08 15:53:55+00:00,143169,/* Development environments */,,,,False,30
+1352994654,1352994577,Birthay boy,2026-05-07 14:26:03+00:00,143157,/* Notes */,,,,False,11
+1352994577,1352740047,Birthay boy,2026-05-07 14:25:28+00:00,143132,"/* Design philosophy and features */ Added PEP for this article, even though I'm not sure this is the perfect place.",,,,False,116
+1352740047,1352650477,~2026-27488-48,2026-05-06 00:35:01+00:00,141157,"I added RustPython to Other Implementations. It's relatively well-known, used in production for a few projects, and targets a recent Python implementation (3.14).",,,,False,162
+1352650477,1352650111,ArkadenBoden,2026-05-05 13:25:40+00:00,140724,Reverted 1 edit by [[Special:Contributions/~2026-27088-68|~2026-27088-68]] ([[User talk:~2026-27088-68|talk]]) to last revision by Comp.arch,,,,False,140
+1352650111,1352556022,~2026-27088-68,2026-05-05 13:22:48+00:00,140730,/* */,,,,False,5
+1352556022,1352519040,Comp.arch,2026-05-04 22:21:34+00:00,140724,,,,,False,0
+1352519040,1352108588,Birthay boy,2026-05-04 17:35:43+00:00,140713,/* See also */ per [[MOS:NOTSEEALSO]],,,,False,37
+1352108588,1352108564,ClueBot NG,2026-05-02 02:45:11+00:00,140840,"Reverting possible vandalism by [[Special:Contribs/~2026-26609-16|~2026-26609-16]] to version by Panamitsu. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4509399) (Bot)",,,,False,190
+1352108564,1351826464,~2026-26609-16,2026-05-02 02:44:59+00:00,141085,/* */ Python progam.,,,,False,20
+1351826464,1351822819,Panamitsu,2026-04-30 11:09:56+00:00,140840,fix URL,,,,False,7
+1351822819,1350562192,Comp.arch,2026-04-30 10:26:17+00:00,140837,/* Statements and control flow */ New lazy keyword/import.,,,,False,58
+1350562192,1350561051,MrOllie,2026-04-22 16:50:32+00:00,140474,Reverted 1 edit by [[Special:Contributions/~2026-24680-64|~2026-24680-64]] ([[User talk:~2026-24680-64|talk]]) to last revision by Panamitsu,,,,False,140
+1350561051,1350470860,~2026-24680-64,2026-04-22 16:42:21+00:00,140473,,,,,False,0
+1350470860,1350470368,Panamitsu,2026-04-22 03:21:56+00:00,140474,Undid revision [[Special:Diff/1350470368|1350470368]] by [[Special:Contributions/~2026-24663-92|~2026-24663-92]] ([[User talk:~2026-24663-92|talk]]) we don't put links in section headings,,,,False,187
+1350470368,1349898466,~2026-24663-92,2026-04-22 03:17:50+00:00,140478,V,,,,False,1
+1349898466,1349896955,Belbury,2026-04-19 11:03:28+00:00,140474,Reverted 1 edit by [[Special:Contributions/~2026-23910-76|~2026-23910-76]] ([[User talk:~2026-23910-76|talk]]) to last revision by Enbi,,,,False,135
+1349896955,1349031340,~2026-23910-76,2026-04-19 10:52:28+00:00,140490,/* History of khushal */,,,,False,24
+1349031340,1349031239,Enbi,2026-04-15 12:10:02+00:00,140474,[[WP:CVPI|Interceptor]]: Reverting editing test by [[Special:Contributions/~2026-23193-96|~2026-23193-96]],,,,False,106
+1349031239,1348976362,~2026-23193-96,2026-04-15 12:09:10+00:00,140503,/* Code examples */,,,,False,19
+1348976362,1348871006,Wikideas1,2026-04-15 05:28:36+00:00,140474,/* See also */ List of machine learning and deep learning software for Python,,,,False,77
+1348871006,1348188812,Senpaidonkey,2026-04-14 18:08:19+00:00,140346,,,,,False,0
+1348188812,1347905461,Peterl,2026-04-11 06:08:41+00:00,140346,"/* top */ ""general purpose"" includes scripting",,,,False,46
+1347905461,1347896878,RMCD bot,2026-04-09 14:38:54+00:00,140373,Removing notice of move discussion,,,,False,34
+1347896878,1347784586,RMCD bot,2026-04-09 13:46:24+00:00,140496,Notifying subject page of move discussion on [[Talk:Python (programming language)#Requested move 9 April 2026|Talk:Python (programming language)]],,,,False,146
+1347784586,1347775968,Closed Limelike Curves,2026-04-08 19:59:48+00:00,140373,Additional details,,,,False,18
+1347775968,1347772269,MrOllie,2026-04-08 18:48:57+00:00,140385,Reverted 1 edit by [[Special:Contributions/PulseofStrategy|PulseofStrategy]] ([[User talk:PulseofStrategy|talk]]): Rv [[WP:OR]] / editorializing,,,,False,144
+1347772269,1347754768,PulseofStrategy,2026-04-08 18:19:13+00:00,141042,Added overview of core Python programming concepts,,,,False,50
+1347754768,1347594897,Bookworm3001,2026-04-08 15:56:24+00:00,140385,removed a marking for editors saying there a messy lists when there wasn't any messy lists,,,,False,90
+1347594897,1347364033,Grilledcheeseisgreat,2026-04-07 16:14:39+00:00,140420,removed a dupe link,,,,False,19
+1347364033,1347364026,ClueBot NG,2026-04-06 07:08:07+00:00,140424,"Reverting possible vandalism by [[Special:Contribs/~2026-20968-08|~2026-20968-08]] to version by Comp.arch. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4500473) (Bot)",,,,False,190
+1347364026,1346220616,~2026-20968-08,2026-04-06 07:08:00+00:00,140440,,,,,False,0
+1346220616,1346155973,Comp.arch,2026-03-30 16:24:18+00:00,140424,,,,,False,0
+1346155973,1346130330,Akeosnhaoe,2026-03-30 07:07:25+00:00,140415,Reverted 1 edit by [[Special:Contributions/~2026-19656-71|~2026-19656-71]] ([[User talk:~2026-19656-71|talk]]) to last revision by B.J,,,,False,134
+1346130330,1345336232,~2026-19656-71,2026-03-30 02:58:48+00:00,140414,/* Typing */,,,,False,12
+1345336232,1345336181,B.J,2026-03-25 15:46:00+00:00,140415,Reverted edits by [[Special:Contributions/~2026-18689-32|~2026-18689-32]] ([[User talk:~2026-18689-32|talk]]): not adhering to [[WP:MOS|manual of style]] ([[WP:HG|HG]]) (3.4.14),,,,False,177
+1345336181,1345335738,~2026-18689-32,2026-03-25 15:45:40+00:00,140428,,,,,False,0
+1345335738,1345335648,Pahunkat,2026-03-25 15:43:05+00:00,140415,Reverted edits by [[Special:Contribs/~2026-18689-32|~2026-18689-32]] ([[User talk:~2026-18689-32|talk]]) ([[:en:WP:WikiShield|WS]]),,,,False,131
+1345335648,1345178921,~2026-18689-32,2026-03-25 15:42:28+00:00,140421,,,,,False,0
+1345178921,1345099581,SamKramer123,2026-03-24 18:57:42+00:00,140415,added some links to provide definitions,,,,False,39
+1345099581,1345098416,Gadfium,2026-03-24 08:18:37+00:00,140411,rv test,,,,False,7
+1345098416,1345088507,~2026-18316-83,2026-03-24 08:02:53+00:00,140412,/* Code examples */,,,,False,19
+1345088507,1344977366,~2026-18224-77,2026-03-24 06:29:28+00:00,140411,,,,,False,0
+1344977366,1344817085,Robert Wellock,2026-03-23 16:47:33+00:00,140412,Cleanup: replacing manual CSS kerning hack and redundant nowiki with standard {{italics correction}} template (MOS:ITALICS).,,,,False,124
+1344817085,1344815789,Belbury,2026-03-22 18:42:03+00:00,140437,"Reverted 1 edit by [[Special:Contributions/Haji sharafat|Haji sharafat]] ([[User talk:Haji sharafat|talk]]): Copy and paste of source, also reads like LLM generated text",,,,False,169
+1344815789,1344175770,Haji sharafat,2026-03-22 18:31:46+00:00,141750,"/* Implementations */  added missing content in the implementation section, as of 2026, the role of Python in AI-driven web development",,,,False,135
+1344175770,1344167342,Gadfium,2026-03-18 20:20:19+00:00,140437,These links are not sufficiently relevant to this article.,,,,False,58
+1344167342,1343280643,Natagu23,2026-03-18 19:26:08+00:00,140479,/* History */,,,,False,13
+1343280643,1342840864,Bkonrad,2026-03-13 10:14:29+00:00,140402,does not redirect here,,,,False,22
+1342840864,1342266903,Based5290,2026-03-10 23:39:38+00:00,140470,/* Language Development */ ce,,,,False,29
+1342266903,1340934436,MusikBot II,2026-03-08 01:00:42+00:00,140470,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]]),,,,False,94
+1340934436,1340934301,W.andrea,2026-02-28 15:45:58+00:00,140486,/* top */ +ref name,,,,False,19
+1340934301,1340933959,W.andrea,2026-02-28 15:44:33+00:00,140471,/* top */ cite .pyw,,,,False,19
+1340933959,1340933619,W.andrea,2026-02-28 15:41:07+00:00,139946,/* top */ +citation dates,,,,False,25
+1340933619,1340932750,W.andrea,2026-02-28 15:37:44+00:00,139900,/* top */ Cite .pyd,,,,False,19
+1340932750,1340930423,W.andrea,2026-02-28 15:29:35+00:00,139430,/* top */ Cite file extensions. Alphabetize. Citations needed on .pyd and .pyw.,,,,False,79
+1340930423,1339979600,W.andrea,2026-02-28 15:08:07+00:00,138283,/* top */ fix citation details on .pyz,,,,False,38
+1339979600,1339509234,Bumm13,2026-02-23 07:03:51+00:00,138286,/* History */ italicization fix,,,,False,31
+1339509234,1339462646,Skynxnex,2026-02-20 22:45:54+00:00,138282,"rm stray """,,,,False,10
+1339462646,1338245392,W.andrea,2026-02-20 18:12:18+00:00,138283,/* top */ fix hatnote placement per [[MOS:ORDER]],,,,False,49
+1338245392,1337552655,LaundryPizza03,2026-02-14 00:51:01+00:00,138283,[[.рус]],,,,False,8
+1337552655,1337277261,AnomieBOT,2026-02-10 03:43:10+00:00,138217,Fixing reference errors and moving refs out of templates,,,,False,56
+1337277261,1337275440,Toast of Fate,2026-02-08 13:48:32+00:00,138232,Reverted 1 edit by [[Special:Contributions/Dwarf07|Dwarf07]] ([[User talk:Dwarf07|talk]]): Rv spam,,,,False,98
+1337275440,1336888022,Dwarf07,2026-02-08 13:31:27+00:00,138438,,,,,False,0
+1336888022,1336793024,Steel1943,2026-02-06 07:18:54+00:00,138232,"fix common [[MOS:REFSPACE]] spacing errors, replaced: {{efn → {{efn, /ref>E → /ref> E",,,,False,85
+1336793024,1336737584,Skynxnex,2026-02-05 19:22:22+00:00,138232,"Undid revision [[Special:Diff/1336737584|1336737584]] by [[Special:Contributions/Casualperson1|Casualperson1]] ([[User talk:Casualperson1|talk]]): the section immediately above has the two quotation mark style, don't need to repeat it here",,,,False,239
+1336737584,1336308082,Casualperson1,2026-02-05 12:42:26+00:00,138399,/* Code examples */ Doubles quotes are okay.,,,,False,44
+1336308082,1336215580,Peterl,2026-02-03 01:59:41+00:00,138232,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/B.NIROSHAN|B.NIROSHAN]] ([[User talk:B.NIROSHAN|talk]]): I feel this should only be notable languages.,,,,False,166
+1336215580,1335470794,B.NIROSHAN,2026-02-02 15:05:16+00:00,138418,/* Languages influenced by Python */,,,,False,36
+1335470794,1335280741,Xzkdeng,2026-01-29 11:28:55+00:00,138232,rm indiscriminate information,,,,False,29
+1335280741,1335278830,Smartse,2026-01-28 10:13:41+00:00,138783,ibid,,,,False,4
+1335278830,1335223253,Smartse,2026-01-28 09:55:36+00:00,138889,rm deleted article [[Wikipedia:Sockpuppet_investigations/Mahmoud_Fayed]],,,,False,72
+1335223253,1334987159,Cjs,2026-01-28 01:42:45+00:00,139429,'mypy' is lower case except in titles etc; see e.g. https://mypy.readthedocs.io/en/stable/getting_started.html .,,,,False,112
+1334987159,1334981599,Oreocooke,2026-01-26 19:16:11+00:00,139429,request,,,,False,7
+1334981599,1334673032,Comp.arch,2026-01-26 18:37:37+00:00,139173,/* Development environments */,,,,False,30
+1334673032,1334671924,Comp.arch,2026-01-25 00:11:27+00:00,139172,uv package manager,,,,False,18
+1334671924,1334671489,Comp.arch,2026-01-25 00:03:46+00:00,139044,American spelling; not {{Use Oxford spelling|date=June 2025}} as at Rossum,,,,False,74
+1334671489,1331898612,Comp.arch,2026-01-25 00:01:36+00:00,139044,Show with .. or do-while?,,,,False,25
+1331898612,1331144456,WasowkiMike,2026-01-08 20:16:13+00:00,138992,changing to 2026,,,,False,16
+1331144456,1330813309,CoroneC0rnix-64,2026-01-04 20:32:39+00:00,138993,/* top */ Fixed missing apostrophe (possessive),,,,False,47
+1330813309,1328469413,Dronebogus,2026-01-02 18:41:05+00:00,138992,/* See also */,,,,False,14
+1328469413,1326965613,Arjunaraoc,2025-12-20 01:54:23+00:00,138980,/* Design philosophy and features */ Fixed grammar,,,,False,50
+1326965613,1326870386,Peterl,2025-12-11 22:08:18+00:00,138983,"3.14 is covered; latest release 3.14.2 is listed. 3.14 specifics (json CLI, datetime.date.strptime, PEP 765, etc) seem too low-level to be covered here",,,,False,151
+1326870386,1326395149,Rageking890,2025-12-11 10:34:51+00:00,139105,Remove space before reference,,,,False,29
+1326395149,1326368631,Gadfium,2025-12-08 19:22:59+00:00,139106,I think these are intended to be html comments,,,,False,46
+1326368631,1326180929,Snugglebuns,2025-12-08 16:25:43+00:00,139104,v2.05 - Fix errors for [[WP:WCW|CW project]] (Template contains useless word template: - Comment tag without correct end - Spelling and typography),,,,False,147
+1326180929,1326141206,Bearcat,2025-12-07 15:43:03+00:00,139116,,,,,False,0
+1326141206,1325947384,Brigandeur,2025-12-07 09:01:08+00:00,139156,Replace erroneous duplicate short description with correct one that was in the wrong place ([[WP:SDPLACE]]),,,,False,107
+1325947384,1325947299,Daniel Case,2025-12-06 03:34:58+00:00,139181,+protection notice,,,,False,18
+1325947299,1325921615,Daniel Case,2025-12-06 03:34:10+00:00,139137,"Protected ""[[Python (programming language)]]"": Persistent [[WP:Disruptive editing|disruptive editing]]: per RFPP ([Edit=Require autoconfirmed or confirmed access] (expires 03:34, 6 March 2026 (UTC)) [Move=Require autoconfirmed or confirmed access] (expires 03:34, 6 March 2026 (UTC)))",,,,False,284
+1325921615,1325645525,Lokiretro,2025-12-05 23:52:03+00:00,139137,/* History */ use wikidata for latest stable release,,,,False,52
+1325645525,1325645506,ClueBot NG,2025-12-04 08:57:28+00:00,139102,"Reverting possible vandalism by [[Special:Contribs/Miral.wael.ghazal|Miral.wael.ghazal]] to version by Sink Cat. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4456435) (Bot)",,,,False,195
+1325645506,1325630933,Miral.wael.ghazal,2025-12-04 08:57:18+00:00,136985,The difination of python i made it more kids understand able,,,,False,60
+1325630933,1325611429,Sink Cat,2025-12-04 06:12:28+00:00,139102,3.10 is not EOL,,,,False,15
+1325611429,1325570261,Peaceray,2025-12-04 02:51:38+00:00,139096,/* top */ {{As of|2025}},,,,False,24
+1325570261,1325505397,TTWIDEE,2025-12-03 21:01:25+00:00,139092,/* Design philosophy and features */ Removed erroneous space and fixed kerning,,,,False,78
+1325505397,1325313954,Maj0306,2025-12-03 12:49:05+00:00,139061,/* top */addes something,,,,False,24
+1325313954,1325276517,Toast of Fate,2025-12-02 11:02:51+00:00,138854,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Ahetesham99|Ahetesham99]] ([[User talk:Ahetesham99|talk]]): Unexplained content removal,,,,False,151
+1325276517,1325074993,Ahetesham99,2025-12-02 04:25:28+00:00,138817,,,,,False,0
+1325074993,1323956455,Kozak391,2025-12-01 01:38:54+00:00,138854,,,,,False,0
+1323956455,1323413324,PeriodicEditor,2025-11-24 19:19:20+00:00,138699,Adding/improving reference(s),,,,False,29
+1323413324,1323413247,Codename Noreste,2025-11-21 16:14:46+00:00,138612,Reverted edits by [[Special:Contributions/~2025-35373-10|~2025-35373-10]] ([[User talk:~2025-35373-10|talk]]) ([[WP:WikiShield|WS]]),,,,False,132
+1323413247,1323187836,~2025-35373-10,2025-11-21 16:14:04+00:00,138615,/* Expressions */,,,,False,17
+1323187836,1323015035,Hooman Mallahzadeh,2025-11-20 06:14:42+00:00,138612,Memory management in Infobox.,,,,False,29
+1323015035,1322729657,Screwdryver,2025-11-19 04:01:13+00:00,138530,spelling,,,,False,8
+1322729657,1322729236,Artem's pages,2025-11-17 20:55:58+00:00,138531,/* Languages influenced by Python */Changed name.,,,,False,49
+1322729236,1322608059,Artem's pages,2025-11-17 20:53:19+00:00,138527,/* Languages influenced by Python */Changed link to go to correct place.,,,,False,72
+1322608059,1322608011,KuyaMoHirowo,2025-11-17 04:03:25+00:00,138504,Reverted edits by [[Special:Contributions/~2025-34177-30|~2025-34177-30]] ([[User talk:~2025-34177-30|talk]]) ([[WP:WikiShield|WS]]),,,,False,132
+1322608011,1322041081,~2025-34177-30,2025-11-17 04:02:58+00:00,138510,/* Design philosophy and features */,,,,False,36
+1322041081,1322039945,McSly,2025-11-14 02:01:07+00:00,138504,Reverted edit by [[Special:Contribs/~2025-33446-21|~2025-33446-21]] ([[User talk:~2025-33446-21|talk]]) to last version by GoingBatty,,,,False,133
+1322039945,1322030890,~2025-33446-21,2025-11-14 01:52:15+00:00,138041,,,,,False,0
+1322030890,1322030759,GoingBatty,2025-11-14 00:47:29+00:00,138504,/* External links */ moved link from previous section,,,,False,53
+1322030759,1322030641,GoingBatty,2025-11-14 00:46:40+00:00,138452,/* External links */ removed section,,,,False,36
+1322030641,1322006388,GoingBatty,2025-11-14 00:46:03+00:00,138524,/* See also */ fixed link,,,,False,25
+1322006388,1321763752,Edmolo,2025-11-13 21:59:24+00:00,138496,Grammatical edits and fixed types,,,,False,33
+1321763752,1321761734,Comp.arch,2025-11-12 14:40:32+00:00,138507,"Clarify download for Android, but for iOS is strange... tier 3 support too, still no iOS (non-source; official) binary executable download to find.",,,,False,147
+1321761734,1321718188,Comp.arch,2025-11-12 14:24:30+00:00,138244,"32-bit Windows is only 32-bit still supported with tier 1 support. Yes also 64-bit Windows (implied, and explicit in footnote), and 32-bit Linux is still supported, then with tier 3 support, though seemingly then only on Raspberry Pi OS.  Also 32-bit WASM with tier 2.",,,,False,268
+1321718188,1321598587,Unixxx,2025-11-12 06:18:18+00:00,137787,Grammar,,,,False,7
+1321598587,1321598553,ClueBot NG,2025-11-11 14:07:53+00:00,137783,"Reverting possible vandalism by [[Special:Contribs/~2025-32762-41|~2025-32762-41]] to version by Lokiretro. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4446878) (Bot)",,,,False,190
+1321598553,1321494986,~2025-32762-41,2025-11-11 14:07:38+00:00,135274,Nothing,,,,False,7
+1321494986,1321493593,Lokiretro,2025-11-10 22:01:10+00:00,137783,Undid revision [[Special:Diff/1321493593|1321493593]] by [[Special:Contributions/~2025-32653-49|~2025-32653-49]] ([[User talk:~2025-32653-49|talk]]) Removing unsourced content,,,,False,175
+1321493593,1321069579,~2025-32653-49,2025-11-10 21:51:05+00:00,137888,I added something that python devs typically use (I needed to do this for a school assignment (make a change to a wiki page)),,,,False,125
+1321069579,1321064359,Lokiretro,2025-11-08 13:31:08+00:00,137783,Undid revision [[Special:Diff/1321064359|1321064359]] by [[Special:Contributions/~2025-31803-67|~2025-31803-67]] ([[User talk:~2025-31803-67|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit,,,,False,224
+1321064359,1320909725,~2025-31803-67,2025-11-08 12:31:00+00:00,137769,/* Hamburger Recpie */,,,,False,22
+1320909725,1320905766,Joelvontreifeldt,2025-11-07 13:50:46+00:00,137783,/* Languages influenced by Python */Fix typo,,,,False,44
+1320905766,1320905734,Igor123121,2025-11-07 13:11:43+00:00,137785,[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/~2025-31940-98|~2025-31940-98]] ([[User talk:~2025-31940-98|talk]]) to last version by Lokiretro: nonconstructive edits,,,,False,177
+1320905734,1320556686,~2025-31940-98,2025-11-07 13:11:24+00:00,137786,,,,,False,0
+1320556686,1320555766,Lokiretro,2025-11-05 12:30:05+00:00,137785,Undid revision [[Special:Diff/1320555766|1320555766]] by [[Special:Contributions/~2025-31389-77|~2025-31389-77]] ([[User talk:~2025-31389-77|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit,,,,False,224
+1320555766,1320274677,~2025-31389-77,2025-11-05 12:20:10+00:00,138953,,,,,False,0
+1320274677,1320259623,Gadfium,2025-11-03 19:27:15+00:00,137785,Restore to C.Fred,,,,False,17
+1320259623,1320067811,2405:201:8024:B8D3:1C5D:B276:2755:70EB,2025-11-03 17:42:06+00:00,137331,,,,,False,0
+1320067811,1320054548,C.Fred,2025-11-02 14:58:22+00:00,137785,Undid revision [[Special:Diff/1320054548|1320054548]] by [[Special:Contributions/ChomponU Pongsawet|ChomponU Pongsawet]] ([[User talk:ChomponU Pongsawet|talk]]) - overlinking,,,,False,174
+1320054548,1319894220,VocalCat2207,2025-11-02 13:14:06+00:00,137789,I got a link.,,,,False,13
+1319894220,1319893014,Hooman Mallahzadeh,2025-11-01 15:15:41+00:00,137785,Three paragraphs in lead section is enough.,,,,False,43
+1319893014,1319853899,161.130.189.231,2025-11-01 15:05:55+00:00,137788,Fix minor typo (added letter d),,,,True,31
+1319853899,1319845705,AnomieBOT,2025-11-01 08:00:18+00:00,137788,Dating maintenance tags: {{Cn}},,,,False,31
+1319845705,1319473217,CycleSortSupreme,2025-11-01 06:00:08+00:00,137769,"Added information, added see also links, and changed phrasings",,,,False,62
+1319473217,1319473198,Lynch44,2025-10-30 01:32:39+00:00,131753,Reverted edit by [[Special:Contribs/66.96.251.202|66.96.251.202]] ([[User talk:66.96.251.202|talk]]) to last version by S Marshall,,,,False,130
+1319473198,1319425344,66.96.251.202,2025-10-30 01:32:25+00:00,131789,,,,,True,0
+1319425344,1319373042,S Marshall,2025-10-29 19:10:43+00:00,131753,Reference goes outside punctuation,,,,False,34
+1319373042,1319373029,ClueBot NG,2025-10-29 11:58:58+00:00,131753,"Reverting possible vandalism by [[Special:Contribs/185.209.105.41|185.209.105.41]] to version by A1244. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4440208) (Bot)",,,,False,186
+1319373029,1319290262,185.209.105.41,2025-10-29 11:58:49+00:00,125129,/* History */,,,,True,13
+1319290262,1319188309,A1244,2025-10-28 22:38:19+00:00,131753,/* Statements and control flow */,,,,False,33
+1319188309,1319181494,Lokiretro,2025-10-28 09:05:10+00:00,131707,"Undid revision [[Special:Diff/1319181494|1319181494]] by [[Special:Contributions/14.1.65.25|14.1.65.25]] ([[User talk:14.1.65.25|talk]]) [[Help:Reverting|Reverting]] unexplained content removal, in the website it is Rauschmayer",,,,False,227
+1319181494,1319134702,14.1.65.25,2025-10-28 07:39:50+00:00,131706,G,,,,True,1
+1319134702,1319134550,A1244,2025-10-28 00:19:24+00:00,131707,/* Typing */,,,,False,12
+1319134550,1319098677,A1244,2025-10-28 00:17:56+00:00,131701,/* Typing */,,,,False,12
+1319098677,1319098577,Sink Cat,2025-10-27 20:09:52+00:00,131654,swap verb,,,,False,9
+1319098577,1319098290,Sink Cat,2025-10-27 20:09:15+00:00,131655,small fix,,,,False,9
+1319098290,1318671466,Sink Cat,2025-10-27 20:07:32+00:00,131653,reworded clunky statement,,,,False,25
+1318671466,1318490973,Tisykfylde,2025-10-25 08:44:52+00:00,131514,/* Cross-compilers to other languages */,,,,False,40
+1318490973,1318489977,Gadfium,2025-10-24 05:12:24+00:00,131514,"rv, unexplained deletion of content",,,,False,35
+1318489977,1317081105,27.82.122.250,2025-10-24 04:57:36+00:00,131007,,,,,True,0
+1317081105,1316954613,Wikideas1,2025-10-16 05:39:09+00:00,131514,{{Template:Python sidebar}},,,,False,27
+1316954613,1316954583,ClueBot NG,2025-10-15 12:52:09+00:00,131482,"Reverting possible vandalism by [[Special:Contribs/Lead Editor67|Lead Editor67]] to version by Ss207209. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4433891) (Bot)",,,,False,187
+1316954583,1316931524,Lead Editor67,2025-10-15 12:52:00+00:00,131526,,,,,False,0
+1316931524,1316880101,Ss207209,2025-10-15 08:58:31+00:00,131482,added more info about optimizing performance,,,,False,44
+1316880101,1316866696,Panamitsu,2025-10-15 00:59:19+00:00,131003,i think generally with most updates we expect things to speed up. Not needed for the lead,,,,False,89
+1316866696,1316866589,Comp.arch,2025-10-14 23:24:15+00:00,131037,/* History */,,,,False,13
+1316866589,1316513838,Comp.arch,2025-10-14 23:23:24+00:00,131038,/* History */ 3.13.9 security release,,,,False,37
+1316513838,1316490345,Lokiretro,2025-10-12 22:56:07+00:00,131039,"/* top */ remove kotlin, see [[Talk:Python (programming language)#kotlin]]",,,,False,74
+1316490345,1316351735,143.178.155.219,2025-10-12 20:10:16+00:00,131172,if factorial of 0 is valid (and results in 1) then the comment should be corrected ;-),,,,True,86
+1316351735,1316350993,Panamitsu,2025-10-11 23:33:15+00:00,131168,"I think including type hints is misleading because it makes it look like these are compulsory and not optional. Also the first example works with any type, not just strings, so it doesn't need to be there",,,,False,204
+1316350993,1316343809,Panamitsu,2025-10-11 23:27:31+00:00,131201,Undid revision [[Special:Diff/1316343809|1316343809]] by [[Special:Contributions/143.178.155.219|143.178.155.219]] ([[User talk:143.178.155.219|talk]]) There was nothing wrong with it. 0! = 1,,,,False,191
+1316343809,1316307771,143.178.155.219,2025-10-11 22:27:24+00:00,131198,Check input is a positive integer,,,,True,33
+1316307771,1316154666,Nimmzo,2025-10-11 18:00:10+00:00,131201,"/* References */ Fix 25 warnings ""Cite error: A [[WP:LDR|list-defined reference]] named ""AutoNT-100"" is not used in the content (see the [[H:CERMK|help page]])."". Remove unused references from ""AutoNT-29"" to 100. These shared references, named ""AutoNT-index"" by MediaWiki when explicit name is missing, could be retrieved in View history.",,,,False,338
+1316154666,1316091845,Nimmzo,2025-10-10 20:00:07+00:00,141251,/* Naming */ Monty Python routines. -ref +[[Template:Sfn]] hyperlinking to /* Further reading */,,,,False,96
+1316091845,1315992716,Artem's pages,2025-10-10 12:04:01+00:00,141667,Added citation.,,,,False,15
+1315992716,1315974273,Comp.arch,2025-10-09 21:21:00+00:00,141576,/* History */ All versions got security updates,,,,False,47
+1315974273,1315943748,Artem's pages,2025-10-09 19:13:10+00:00,141479,Added Kotlin.,,,,False,13
+1315943748,1315927888,Hooman Mallahzadeh,2025-10-09 15:25:38+00:00,141437,Capital.,,,,False,8
+1315927888,1315927254,Fbergo,2025-10-09 13:26:24+00:00,141437,Restored revision 1315788596 by [[Special:Contributions/Comp.arch|Comp.arch]] ([[User talk:Comp.arch|talk]]): Rvv,,,,False,113
+1315927254,1315788596,2409:40E6:2D:ADCB:8000:0:0:0,2025-10-09 13:21:16+00:00,141445,Subscribe,,,,False,9
+1315788596,1315777648,Comp.arch,2025-10-08 17:17:59+00:00,141437,/* History */,,,,False,13
+1315777648,1315757839,GRomeroN,2025-10-08 16:01:00+00:00,141397,,,,,False,0
+1315757839,1315756032,Lokiretro,2025-10-08 13:33:35+00:00,141398,/* History */ Adding/improving references(s),,,,False,44
+1315756032,1315755330,Lokiretro,2025-10-08 13:20:47+00:00,140957,/* History */ latest stable,,,,False,27
+1315755330,1315755029,Lokiretro,2025-10-08 13:15:09+00:00,140956,"/* History */ Cleaned up using [[WP:AutoEd|AutoEd]] | Standardise citation spacing using [[User:Mesidast/Tidy citations|a script]], [[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]] #proveit",,,,False,226
+1315755029,1315752677,Lokiretro,2025-10-08 13:12:30+00:00,140902,remove duplicated citations,,,,False,27
+1315752677,1315749126,Lokiretro,2025-10-08 12:54:12+00:00,141649,/* top */ Adding/improving references(s),,,,False,40
+1315749126,1315658787,Lokiretro,2025-10-08 12:23:43+00:00,141345,"/* top */ Cleaned up using [[WP:AutoEd|AutoEd]] | Standardise citation spacing using [[User:Mesidast/Tidy citations|a script]], [[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]] #proveit",,,,False,222
+1315658787,1315461231,Sink Cat,2025-10-07 22:52:40+00:00,141288,Added banner. 3.14 is now latest stable and currently no version is in preview (3.15 is still in alpha0),,,,False,104
+1315461231,1315408927,Gadfium,2025-10-06 20:13:21+00:00,141167,/* Design philosophy and features */ copyedit,,,,False,45
+1315408927,1315406213,Akeosnhaoe,2025-10-06 14:12:36+00:00,141169,/* Syntax and semantics */,,,,False,26
+1315406213,1315405445,Saalm2e,2025-10-06 13:51:41+00:00,141504,,,,,False,0
+1315405445,1315043642,Saalm2e,2025-10-06 13:45:27+00:00,141518,,,,,False,0
+1315043642,1315041158,AnomieBOT,2025-10-04 15:26:02+00:00,141531,[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Format ISBN}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.,,,,False,130
+1315041158,1314869813,Monkbot,2025-10-04 15:09:34+00:00,141580,[[User:Monkbot/task 21: Replace page(s) with article-number|Monkbot/task 21: Replace page(s) with article-number]];,,,,False,115
+1314869813,1314867507,AnomieBOT,2025-10-03 16:48:49+00:00,141994,"Rescuing orphaned refs (""Julia"" from rev 1314863146)",,,,False,52
+1314867507,1314864392,AnomieBOT,2025-10-03 16:34:02+00:00,141581,Dating maintenance tags: {{Cleanup list}},,,,False,41
+1314864392,1314863146,AtlasDuane,2025-10-03 16:13:36+00:00,141563,Trimming article fat.,,,,False,21
+1314863146,1314811912,AtlasDuane,2025-10-03 16:04:16+00:00,168434,/* Libraries */ Removed irrelevant list.,,,,False,40
+1314811912,1314807951,Toast of Fate,2025-10-03 09:48:23+00:00,168887,Reverted 1 edit by [[Special:Contributions/39.35.128.185|39.35.128.185]] ([[User talk:39.35.128.185|talk]]): This is not the place to test code,,,,False,143
+1314807951,1314801641,39.35.128.185,2025-10-03 09:08:39+00:00,168431,,,,,True,0
+1314801641,1314801323,Gadfium,2025-10-03 08:05:47+00:00,168887,Please include your sources,,,,False,27
+1314801323,1314620707,176.0.5.234,2025-10-03 08:02:53+00:00,169102,added: box field:=implementation languages,,,,True,42
+1314620707,1314620538,Kspiers,2025-10-02 11:30:35+00:00,168887,Undid revision [[Special:Diff/1314620538|1314620538]] by [[Special:Contributions/135.235.50.49|135.235.50.49]] ([[User talk:135.235.50.49|talk]]),,,,False,145
+1314620538,1314465879,135.235.50.49,2025-10-02 11:29:24+00:00,168912,month glow fox,,,,True,14
+1314465879,1314464941,Comp.arch,2025-10-01 15:22:56+00:00,168887,https://peps.python.org/pep-0696/,,,,False,33
+1314464941,1314463636,Comp.arch,2025-10-01 15:16:07+00:00,168860,"/* History */ ""so until approximately October 2025."" 3.9 may be actually still supported, though I'm not sure, even if, not too helpful to most to still list it as such, since most looking towards the future, those still using 3.9 know they are and really should be about to reconsider. I'm not sure we have one more upcoming 3.9.x release, then in source form anyway, so will a secure binary reach you?",,,,False,403
+1314463636,1314208378,Comp.arch,2025-10-01 15:06:26+00:00,168859,"rc3 and ""Note that Android binaries are new in rc2!"" Even though not for 1.13 or older I add it, since ""available and 1.14 stable released very soon.",,,,False,149
+1314208378,1313962831,80.183.113.121,2025-09-30 07:30:28+00:00,168677,"/* Design philosophy and features */ Added the most quoted ""rules"" of the Zen of Python and rephrasing opinions about Python",,,,True,124
+1313962831,1313650890,Chess enjoyer,2025-09-29 01:06:52+00:00,168472,"/* Indentation */  Changed hatnote. Since this links to a section rather than the entire article, I don't think Main is appropriate here.",,,,False,137
+1313650890,1313602745,Wikideas1,2025-09-27 11:19:42+00:00,168469,/* See also */ books,,,,False,20
+1313602745,1312793434,Wikideas1,2025-09-27 03:58:49+00:00,168400,/* External links */,,,,False,20
+1312793434,1312662566,162.218.182.3,2025-09-22 17:02:53+00:00,168328,"/* Arithmetic operations */ Fixed some phrasing, and took ""the"" out of a code block",,,,True,83
+1312662566,1312593516,Juwan,2025-09-21 23:02:17+00:00,168341,/* Expressions */,,,,False,17
+1312593516,1312451056,102.217.4.113,2025-09-21 15:16:20+00:00,168334,/* Code examples */,,,,True,19
+1312451056,1312321815,LLB,2025-09-20 18:24:16+00:00,168334,update link to Starlark,,,,False,23
+1312321815,1312321288,Daphne Morrow,2025-09-20 00:42:31+00:00,168351,/* History */ CE,,,,False,16
+1312321288,1312309945,Daphne Morrow,2025-09-20 00:37:02+00:00,168298,CE,,,,False,2
+1312309945,1312204568,Gadfium,2025-09-19 22:45:16+00:00,168294,/* Cross-compilers to other languages */ gr,,,,False,43
+1312204568,1312200106,ArtificialNSP,2025-09-19 08:19:52+00:00,168292,fixed typo,,,,False,10
+1312200106,1311596803,Uwsi,2025-09-19 07:23:12+00:00,168291,/* Cross-compilers to other languages */,,,,False,40
+1311596803,1311278584,Arbitrarily0,2025-09-15 23:44:47+00:00,168343,Removing link(s) [[Wikipedia:Articles for deletion/Pyjs]] closed as delete ([[WP:XFDC#4.0.16|XFDcloser]]),,,,False,105
+1311278584,1311278159,MrOllie,2025-09-14 12:56:30+00:00,168347,Reverted 1 edit by [[Special:Contributions/114.4.215.229|114.4.215.229]] ([[User talk:114.4.215.229|talk]]) to last revision by 2605:8D80:6C21:7EF8:1000:6159:65AD:F283,,,,False,167
+1311278159,1311199529,114.4.215.229,2025-09-14 12:52:53+00:00,170331,"from PIL import Image, ImageDraw, ImageFilter, ImageOps  # === Load foto cewek & cowok === girl_img = Image.open(""1757333383162.jpg"").convert(""RGBA"") boy_img = Image.open(""1757320098821.jpg"").convert(""RGBA"")  # === Samakan tinggi target === target_height = 700 girl_img = girl_img.resize((int(girl_img.width * target_height / girl_img.height), target_height)) boy_img = boy_img.resize((int(boy_img.width * target_height / boy_img.height), target_height))  # === Satukan berdampingan dengan sedikit ov",,,,True,500
+1311199529,1311199486,2605:8D80:6C21:7EF8:1000:6159:65AD:F283,2025-09-14 00:45:32+00:00,168347,/* Code examples */ Extra parenthesis typo,,,,False,42
+1311199486,1311197975,2605:8D80:6C21:7EF8:1000:6159:65AD:F283,2025-09-14 00:45:11+00:00,168348,/* Code examples */ We could avoid nested calls and just separate it into two calls for newer readers to easily understand it more clearly,,,,False,138
+1311197975,1311197669,2605:8D80:6C21:7EF8:1000:6159:65AD:F283,2025-09-14 00:33:40+00:00,168330,"Undid revision [[Special:Diff/1311197669|1311197669]] by [[Special:Contributions/LuniZunie|LuniZunie]] ([[User talk:LuniZunie|talk]]) ??? Give an explanation for undoing the edits, especially when it is relevant and literally described in page content",,,,False,251
+1311197669,1311197608,LuniZunie,2025-09-14 00:31:15+00:00,168204,Reverting edit(s) by [[Special:Contributions/2605:8D80:6C21:7EF8:1000:6159:65AD:F283|2605:8D80:6C21:7EF8:1000:6159:65AD:F283]] ([[User_talk:2605:8D80:6C21:7EF8:1000:6159:65AD:F283|talk]]) to rev. 1311088785 by Cacophonic peace: Reverting [[WP:AGF|good faith]] edits [[w:en:WP:RW|(RW 16.1)]],,,,False,290
+1311197608,1311197440,2605:8D80:6C21:7EF8:1000:6159:65AD:F283,2025-09-14 00:30:53+00:00,168330,/* Function syntax */ fix typo,,,,False,30
+1311197440,1311088785,2605:8D80:6C21:7EF8:1000:6159:65AD:F283,2025-09-14 00:29:45+00:00,168330,Add type hints as describe in the article for clarity to reader.,,,,False,64
+1311088785,1311088109,Cacophonic peace,2025-09-13 09:22:30+00:00,168204,Reverted 1 edit by [[Special:Contributions/117.20.113.115|117.20.113.115]] ([[User talk:117.20.113.115|talk]]) to last revision by Panamitsu,,,,False,140
+1311088109,1310640551,117.20.113.115,2025-09-13 09:15:23+00:00,171185,,,,,True,0
+1310640551,1310640453,Panamitsu,2025-09-10 20:23:39+00:00,168204,Reverted 1 edit by [[Special:Contributions/103.66.142.230|103.66.142.230]] ([[User talk:103.66.142.230|talk]]) to last revision by Blue Clouds,,,,False,142
+1310640453,1310424450,103.66.142.230,2025-09-10 20:22:57+00:00,168230,Imiss you,,,,True,9
+1310424450,1310241325,Blue Clouds,2025-09-09 14:25:43+00:00,168204,/* Limitations */ Copyedit,,,,False,26
+1310241325,1310225265,Erictleung,2025-09-08 13:15:28+00:00,168203,"Undid revision [[Special:Diff/1310225265|1310225265]] by [[Special:Contributions/2A0F:2B86:10:1:1:2:F699:5C1F|2A0F:2B86:10:1:1:2:F699:5C1F]] ([[User talk:2A0F:2B86:10:1:1:2:F699:5C1F|talk]]) Incorrect ""interpreter"" link",,,,False,219
+1310225265,1309838017,2A0F:2B86:10:1:1:2:F699:5C1F,2025-09-08 10:55:16+00:00,168232,,,,,False,0
+1309838017,1309835180,Gadfium,2025-09-06 06:30:24+00:00,168203,rv tests,,,,False,8
+1309835180,1309835018,Welmedbrahim,2025-09-06 06:08:41+00:00,168206,,,,,False,0
+1309835018,1309832838,Welmedbrahim,2025-09-06 06:07:27+00:00,168204,Welmedbrahim,,,,False,12
+1309832838,1309832827,ClueBot NG,2025-09-06 05:46:15+00:00,168203,"Reverting possible vandalism by [[Special:Contribs/41.188.109.187|41.188.109.187]] to version by Citation bot. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4417137) (Bot)",,,,False,193
+1309832827,1309474010,41.188.109.187,2025-09-06 05:45:57+00:00,168214,Meynt Bk,,,,True,8
+1309474010,1309253070,Citation bot,2025-09-04 07:49:24+00:00,168203,"Alter: doi, quote, title, url, template type. URLs might have been anonymized. Add: website, chapter-url, chapter, date, jstor, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Headbomb | #UCB_toolbar",,,,False,313
+1309253070,1309206779,140.253.33.66,2025-09-03 01:06:38+00:00,167993,/* Reference implementation */  - Changed some punctuation to make it clearer around the version of the C standard is required to compile the interpreter.,,,,True,154
+1309206779,1309169803,W.andrea,2025-09-02 18:47:27+00:00,167995,"/* Types of use */ not {{main}}, but {{further}} fits",,,,False,53
+1309169803,1308850912,Orbulent,2025-09-02 14:06:36+00:00,167992,/* Types of Use */ heading capitalisation,,,,False,41
+1308850912,1308845354,W.andrea,2025-08-31 21:32:49+00:00,167992,"/* Design philosophy and features */ Partial revert of [[Special:diff/1306646533|1306646533]]: Just because a source doesn't mention something doesn't necessarily justify removing it. However, it should be tagged as ""failed verification"".",,,,False,238
+1308845354,1308844447,W.andrea,2025-08-31 20:54:50+00:00,167829,/* Development environments */ Fix details about Canopy,,,,False,55
+1308844447,1308843040,W.andrea,2025-08-31 20:49:36+00:00,167838,/* Development environments */ cite IDLE and IPython,,,,False,52
+1308843040,1308835672,W.andrea,2025-08-31 20:41:29+00:00,167489,/* Development environments */ Cite interactive mode. Which implementations *don't* provide one?,,,,False,96
+1308835672,1308835096,W.andrea,2025-08-31 19:51:34+00:00,167260,/* Development environments */ Add a secondary source for Canopy.,,,,False,65
+1308835096,1308834494,W.andrea,2025-08-31 19:47:23+00:00,166860,/* Development environments */ Move Jupyter ref to the right spot.,,,,False,66
+1308834494,1308831679,W.andrea,2025-08-31 19:42:42+00:00,166860,"/* Development environments */ Cite IDLE. Cn on ""beginners""; it's true, I just don't know where it's stated.",,,,False,108
+1308831679,1308831374,W.andrea,2025-08-31 19:22:11+00:00,166564,"/* Development environments */ IDEA is for JVM-based languages; PyCharm is the equivalent, and it's already listed. Spyder is probably worth mentioning instead. Citation needed though.",,,,False,184
+1308831374,1308702018,W.andrea,2025-08-31 19:20:01+00:00,166530,/* Development environments */ +links. Spelling of IDEA.,,,,False,56
+1308702018,1308694374,BattyBot,2025-08-31 01:29:46+00:00,166514,Fixed reference date error(s) (see [[:Category:CS1 errors: dates|CS1 errors: dates]] for details) and [[WP:AWB/GF|AWB general fixes]],,,,False,133
+1308694374,1307390100,Lkaikati,2025-08-31 00:35:19+00:00,166495,Update to data,,,,False,14
+1307390100,1307386274,Gadfium,2025-08-23 09:24:14+00:00,166764,"rv, incoherent",,,,False,14
+1307386274,1307201207,2409:4085:81A:E3C0:1865:F1C3:677D:7472,2025-08-23 08:49:54+00:00,166760,/* Statements and control flow */For example:-PYTHON AND HTML,,,,False,61
+1307201207,1307026344,Muzakrubs,2025-08-22 05:35:17+00:00,166764,Fix grammar,,,,False,11
+1307026344,1307024304,Davemck,2025-08-21 02:54:09+00:00,166764,Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]],,,,False,153
+1307024304,1306661584,12.75.225.1,2025-08-21 02:37:13+00:00,166776,text formatting; citation cleanups;,,,,True,35
+1306661584,1306646533,AnomieBOT,2025-08-19 00:56:56+00:00,166361,Dating maintenance tags: {{Cn}},,,,False,31
+1306646533,1306645465,CycleSortSupreme,2025-08-18 22:56:16+00:00,166344,The referenced source didn't mention either detail.,,,,False,51
+1306645465,1306642057,CycleSortSupreme,2025-08-18 22:48:16+00:00,166440,https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view,,,,False,61
+1306642057,1306631111,Μινγκ κε μινγκ,2025-08-18 22:24:33+00:00,166451,"/* Development environments */ SageMath is not an IDE, nor does it ship its own. (It usually comes with Jupyter)",,,,False,112
+1306631111,1306618273,Toast of Fate,2025-08-18 21:00:26+00:00,166518,Updated citation [189]  - now links to the actual paper instead of the website,,,,False,78
+1306618273,1306534695,CycleSortSupreme,2025-08-18 19:39:35+00:00,166189,Added section,,,,False,13
+1306534695,1306530337,Cacophonic peace,2025-08-18 07:48:40+00:00,164760,Unnecessary addition to the sentence as reception and popularity was already mentioned in the lead and other sections. Undid revision [[Special:Diff/1306530337|1306530337]] by [[Special:Contributions/49.43.7.202|49.43.7.202]] ([[User talk:49.43.7.202|talk]]),,,,False,258
+1306530337,1306402722,49.43.7.202,2025-08-18 07:06:37+00:00,164963,/* Design philosophy and features */,,,,True,36
+1306402722,1306400481,Comp.arch,2025-08-17 15:06:26+00:00,164760,,,,,False,0
+1306400481,1306121780,Comp.arch,2025-08-17 14:50:16+00:00,164450,"rc2. Since the history has been simplified, and Python 2 is very old and not supported for years, I rewrite it out of the lead to simplify too. The info is redundant with infobox and history section (moved all relevant there). https://pythoninsider.blogspot.com/2025/08/python-3140rc2-and-3137-are-go.html",,,,False,305
+1306121780,1305536918,Yossarian flew,2025-08-16 02:11:13+00:00,164326,/* Other implementations */,,,,False,27
+1305536918,1305536624,W.andrea,2025-08-12 16:50:58+00:00,164325,"/* See also */ ""programming language"" links are included in {{Programming languages}}, below.",,,,False,93
+1305536624,1305536534,W.andrea,2025-08-12 16:48:33+00:00,164442,/* See also */ typo,,,,False,19
+1305536534,1305532306,W.andrea,2025-08-12 16:47:52+00:00,164442,"/* See also */ Change dash, following [[MOS:SEEALSO]]",,,,False,53
+1305532306,1305523244,W.andrea,2025-08-12 16:15:54+00:00,164439,/* See also */ [[Python syntax and semantics]] is linked as {{main}} from the relevant section,,,,False,94
+1305523244,1305273560,Wikideas1,2025-08-12 15:09:52+00:00,164473,/* See also */ Google Colab,,,,False,27
+1305273560,1304776634,Bender the Bot,2025-08-11 02:55:31+00:00,164365,/* Types of Use */ HTTP to HTTPS for [[SourceForge]],,,,False,52
+1304776634,1304398096,MacaroniPizzaHotDog,2025-08-08 03:01:44+00:00,164364,/* Arithmetic operations */ fix typo,,,,False,36
+1304398096,1304396970,W.andrea,2025-08-05 20:34:39+00:00,164364,"/* History */ I removed too much: add back latest version, but briefer.",,,,False,71
+1304396970,1304395957,W.andrea,2025-08-05 20:26:25+00:00,163986,/* History */ moved info about current version and support duration to [[History of Python]],,,,False,92
+1304395957,1304395699,W.andrea,2025-08-05 20:18:59+00:00,165384,"/* History */ generalize ""removed outdated modules"" to ""backwards-incompatible changes""",,,,False,87
+1304395699,1304393959,W.andrea,2025-08-05 20:16:42+00:00,165395,"/* History */ Move excessive details about newer 3.x releases to [[History_of_Python#Subsequent_releases]]. A few things didn't make the cut, like all the notes about speedups and the commented-out content about security.",,,,False,221
+1304393959,1304391399,Bookworm-ce,2025-08-05 20:02:06+00:00,171639,typo,,,,False,4
+1304391399,1304390916,W.andrea,2025-08-05 19:41:48+00:00,171637,"/* History */ Monty Python is covered in more detail in § Naming. It's a fact, not just ""said"".",,,,False,95
+1304390916,1304389280,W.andrea,2025-08-05 19:38:08+00:00,171622,"/* top */ ""influenced by Ada"" failed verification. Also, the link timed out when I tried to access it, so mark as dead.",,,,False,119
+1304389280,1304388550,W.andrea,2025-08-05 19:26:28+00:00,171421,"/* Naming */ Add [[infix]] example of affix ""py""",,,,False,48
+1304388550,1304388380,W.andrea,2025-08-05 19:21:16+00:00,171332,/* History */ +link,,,,False,19
+1304388380,1304388077,W.andrea,2025-08-05 19:20:01+00:00,171328,"/* History */ more specific link, even if the target is the same",,,,False,64
+1304388077,1304387936,W.andrea,2025-08-05 19:17:37+00:00,171328,"/* History */ proposal not worth mentioning - again, excessive detail",,,,False,69
+1304387936,1304387839,W.andrea,2025-08-05 19:16:25+00:00,172162,/* History */ - excessive detail about free-threaded,,,,False,52
+1304387839,1304387682,W.andrea,2025-08-05 19:15:31+00:00,172234,/* History */ why were these in italics?,,,,False,40
+1304387682,1304386984,W.andrea,2025-08-05 19:14:16+00:00,172242,/* History */ [[WP:NOTGUIDE|Wikipedia is not a guidebook]]. Remove redundant content along with it.,,,,False,99
+1304386984,1304386314,W.andrea,2025-08-05 19:08:13+00:00,172390,"/* Potentially breaking changes */ Remove: this is excessive detail. GIL ""free-threaded"" is the one topic worth covering, but it's already covered above.",,,,False,153
+1304386314,1304386087,W.andrea,2025-08-05 19:02:36+00:00,179724,"/* History */ promote pseudo-header ""Potentially breaking changes"" to true header",,,,False,81
+1304386087,1304161344,W.andrea,2025-08-05 19:00:32+00:00,179717,/* History */ Python 3.14.0 needs citation and date,,,,False,51
+1304161344,1304158350,Toast of Fate,2025-08-04 10:28:21+00:00,179667,Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/203.12.15.69|203.12.15.69]] ([[User talk:203.12.15.69|talk]]): Not sure what was confusing about the original wording,,,,False,181
+1304158350,1303953452,203.12.15.69,2025-08-04 09:51:13+00:00,179668,Fixe confusing wording in description of annotations,,,,True,52
+1303953452,1303953423,ClueBot NG,2025-08-03 01:51:42+00:00,179667,"Reverting possible vandalism by [[Special:Contribs/BlackHacker24|BlackHacker24]] to version by Lynch44. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4406576) (Bot)",,,,False,186
+1303953423,1303858670,BlackHacker24,2025-08-03 01:51:26+00:00,177764,/* External links */,,,,False,20
+1303858670,1303858605,Lynch44,2025-08-02 13:13:58+00:00,179667,Reverted edit by [[Special:Contribs/101.53.250.196|101.53.250.196]] ([[User talk:101.53.250.196|talk]]) to last version by NILKNARFGonzo,,,,False,136
+1303858605,1303340863,101.53.250.196,2025-08-02 13:13:18+00:00,179674,,,,,True,0
+1303340863,1303284460,NILKNARFGonzo,2025-07-30 12:08:52+00:00,179667,Added links for else and else if,,,,False,32
+1303284460,1303283976,Félix An,2025-07-30 03:01:22+00:00,179562,remove self-published github.io source and replace with scholarly article from JSTOR,,,,False,84
+1303283976,1303147348,Félix An,2025-07-30 02:56:57+00:00,179443,widely taught as introductory language,,,,False,38
+1303147348,1303144121,Onel5969,2025-07-29 09:42:16+00:00,179007,Disambiguating links to [[Object-orientation]] (link changed to [[Object-oriented programming]]; link changed to [[Object-oriented programming]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].,,,,False,204
+1303144121,1302749317,Xzkdeng,2025-07-29 09:10:18+00:00,178951,"use offical logo, and delete misleading code example in 'Typing'",,,,False,64
+1302749317,1302738834,ClaudineChionh,2025-07-27 08:19:33+00:00,179015,Reverted 1 edit by [[Special:Contributions/89.41.14.145|89.41.14.145]] ([[User talk:89.41.14.145|talk]]): Unexplained removal,,,,False,125
+1302738834,1302194215,89.41.14.145,2025-07-27 06:57:30+00:00,178785,,,,,True,0
+1302194215,1301134139,Comp.arch,2025-07-23 23:43:35+00:00,179015,"rc1. Why doesn't Wikidata work for it, gave up figuring out why not?",,,,False,68
+1301134139,1300974923,Isaidnoway,2025-07-18 07:25:07+00:00,178676,/* References */ list-defined ref not used,,,,False,42
+1300974923,1300576622,Jae,2025-07-17 12:14:08+00:00,179133,"Deleted ""batteries included"" since it's a thing of the past.",,,,False,60
+1300576622,1300576402,Bsoyka,2025-07-15 04:44:18+00:00,179551,Rollback edit(s) by [[Special:Contributions/76.78.158.125|76.78.158.125]] ([[User_talk:76.78.158.125|talk]]): [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]],,,,False,158
+1300576402,1300575659,76.78.158.125,2025-07-15 04:42:51+00:00,179544,Undid revision [[Special:Diff/1300575659|1300575659]] by [[Special:Contributions/NichikaMizuki142|NichikaMizuki142]] ([[User talk:NichikaMizuki142|talk]]),,,,True,154
+1300575659,1300574265,NichikaMizuki142,2025-07-15 04:38:56+00:00,179551,/* top */Removed vandalism,,,,False,26
+1300574265,1300573136,76.78.158.125,2025-07-15 04:30:16+00:00,179544,Undid revision [[Special:Diff/1300573136|1300573136]] by [[Special:Contributions/Bsoyka|Bsoyka]] ([[User talk:Bsoyka|talk]]),,,,True,124
+1300573136,1300573007,Bsoyka,2025-07-15 04:22:58+00:00,179551,Reverted edits by [[Special:Contributions/76.78.158.116|76.78.158.116]] ([[User talk:76.78.158.116|talk]]) ([[WP:HG|HG]]) (3.4.12),,,,False,130
+1300573007,1300166086,76.78.158.116,2025-07-15 04:22:27+00:00,179544,,,,,True,0
+1300166086,1300165348,Comp.arch,2025-07-12 17:03:41+00:00,179551,"Discontinued, so move",,,,False,21
+1300165348,1299947918,Comp.arch,2025-07-12 16:57:54+00:00,179551,,,,,False,0
+1299947918,1299942285,Maltimore,2025-07-11 09:49:54+00:00,179503,/* History */ reword an partially remove incorrect (outdated) statement. Recent releases did not add new syntax anymore.,,,,False,120
+1299942285,1299817513,EgePro31,2025-07-11 08:54:56+00:00,179569,,,,,False,0
+1299817513,1299817153,Peaceray,2025-07-10 15:40:27+00:00,179581,/* Types of Use */ As per [[WP:NOPIPE]],,,,False,39
+1299817153,1299805195,Peaceray,2025-07-10 15:37:45+00:00,179668,"Rollback edit(s) by [[Special:Contributions/59.98.207.18|59.98.207.18]] ([[User_talk:59.98.207.18|talk]]): Reverting [[WP:AGF|good faith]] edits: first & foremost, Python is a scripting language, so let's keep that on top. [[w:en:WP:RW|(RW 16.1)]]",,,,False,247
+1299805195,1299805124,59.98.207.18,2025-07-10 13:59:06+00:00,179617,/* Types of Use */,,,,True,18
+1299805124,1299804996,59.98.207.18,2025-07-10 13:58:25+00:00,179659,/* Types of Use */,,,,True,18
+1299804996,1299790970,59.98.207.18,2025-07-10 13:57:16+00:00,179667,/* Types of Use */,,,,True,18
+1299790970,1299786523,Hooman Mallahzadeh,2025-07-10 11:28:55+00:00,179668,,,,,False,0
+1299786523,1299786380,Hooman Mallahzadeh,2025-07-10 10:42:15+00:00,179669,,,,,False,0
+1299786380,1299785635,Hooman Mallahzadeh,2025-07-10 10:40:22+00:00,179670,To make the Infobox concise.,,,,False,28
+1299785635,1299785421,Defiect,2025-07-10 10:30:57+00:00,179664,/* History */ This recommendation might as well have a reason for it - 3.9 is the most recent version with security patch support,,,,False,129
+1299785421,1299778066,Hooman Mallahzadeh,2025-07-10 10:27:57+00:00,179648,Infobox should be concise.,,,,False,26
+1299778066,1299774580,Gadfium,2025-07-10 09:13:17+00:00,179635,"The lead already covers popularity, and the origin of the name is already covered.",,,,False,82
+1299774580,1299764174,EmperorChesser,2025-07-10 08:45:02+00:00,179833,Small revisions,,,,False,15
+1299764174,1299487941,Binglecheese,2025-07-10 07:17:42+00:00,179833,Minor fixes and add-ons,,,,False,23
+1299487941,1299180643,Comp.arch,2025-07-08 18:18:00+00:00,179635,/* History */,,,,False,13
+1299180643,1298811444,Bubba73,2025-07-06 23:43:01+00:00,179635,/* History */ rm contraction,,,,False,28
+1298811444,1298811122,TheOnlyZac,2025-07-04 21:28:08+00:00,179634,Reverted 1 edit by [[Special:Contributions/75.60.105.21|75.60.105.21]] ([[User talk:75.60.105.21|talk]]): Section headings don't use title case by convention,,,,False,157
+1298811122,1298742154,75.60.105.21,2025-07-04 21:25:14+00:00,179634,/* Arithmetic operations */,,,,True,27
+1298742154,1297046502,Deltaspace42,2025-07-04 11:27:38+00:00,179634,,,,,False,0
+1297046502,1297046300,Erictleung,2025-06-23 21:33:34+00:00,179633,Undid revision [[Special:Diff/1297037589|1297037589]] by [[Special:Contributions/Zaamin Khan|Zaamin Khan]] ([[User talk:Zaamin Khan|talk]]) Context for GIL is important to understand PEP feature,,,,False,194
+1297046300,1297038724,Erictleung,2025-06-23 21:32:09+00:00,179388,Undid revision [[Special:Diff/1297038724|1297038724]] by [[Special:Contributions/Zaamin Khan|Zaamin Khan]] ([[User talk:Zaamin Khan|talk]]) WP:NPOV WP:EDITORIAL,,,,False,160
+1297038724,1297037589,Zaamin Khan,2025-06-23 20:36:39+00:00,179399,"I didn't change any information, I simply reworded it in a more effective manner",,,,False,80
+1297037589,1296906037,Zaamin Khan,2025-06-23 20:28:27+00:00,179388,Simply Rewording a paragraph,,,,False,28
+1296906037,1296512774,1something,2025-06-23 01:55:56+00:00,179633,/* Other implementations */ Supporting RISC-V is not an example of anything in the previous sentence.,,,,False,101
+1296512774,1296186542,77.61.17.225,2025-06-20 11:58:30+00:00,179646,/* History */,,,,True,13
+1296186542,1296178900,Ttmms,2025-06-18 11:41:00+00:00,179642,Undid revision [[Special:Diff/1296178900|1296178900]] by [[Special:Contributions/2409:4042:8EC1:B144:7D95:241F:B84B:14C0|2409:4042:8EC1:B144:7D95:241F:B84B:14C0]] ([[User talk:2409:4042:8EC1:B144:7D95:241F:B84B:14C0|talk]]) revert unmotivated and undiscussed change of font style,,,,False,279
+1296178900,1294943773,2409:4042:8EC1:B144:7D95:241F:B84B:14C0,2025-06-18 10:14:40+00:00,179657,I only change the font style of history in italics and made text big,,,,False,68
+1294943773,1294441646,Ajmullen,2025-06-10 19:03:10+00:00,179642,/* Statements and control flow */,,,,False,33
+1294441646,1294434820,Gadfium,2025-06-07 18:58:20+00:00,179638,"That's correct for CPython, but not for all implementations. It's covered under the ""Reference implementation"" section.",,,,False,119
+1294434820,1294426947,MusikBot II,2025-06-07 18:10:27+00:00,179837,Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]]),,,,False,94
+1294426947,1293864608,XyloTechieBoy,2025-06-07 17:16:13+00:00,179854,Added info about interpreter used by python,,,,False,43
+1293864608,1293863000,MusikBot II,2025-06-04 03:10:32+00:00,179655,Adding missing protection template ([[User:MusikBot II/FixPP/FAQ|more info]]),,,,False,77
+1293863000,1293862862,Materialscientist,2025-06-04 02:59:46+00:00,179638,"Protected ""[[Python (programming language)]]"": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require autoconfirmed or confirmed access] (expires 02:59, 7 June 2025 (UTC)) [Move=Require autoconfirmed or confirmed access] (expires 02:59, 7 June 2025 (UTC)))",,,,False,254
+1293862862,1293862797,Materialscientist,2025-06-04 02:59:00+00:00,179638,Reverted edit by [[Special:Contribs/2603:9000:CF03:2532:E9AE:3FD2:B20E:EA5F|2603:9000:CF03:2532:E9AE:3FD2:B20E:EA5F]] ([[User talk:2603:9000:CF03:2532:E9AE:3FD2:B20E:EA5F|talk]]) to last version by Untamed1910,,,,False,209
