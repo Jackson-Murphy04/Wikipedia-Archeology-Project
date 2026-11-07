@@ -1,0 +1,11 @@
+issue,count
+Original records,500
+Duplicate revision IDs,0
+Missing edit comments,52
+Missing usernames,0
+Invalid timestamps,0
+Invalid revision IDs,0
+Invalid article sizes,0
+Cleaned records,500
+Remaining duplicate IDs,0
+Remaining invalid timestamps,0
