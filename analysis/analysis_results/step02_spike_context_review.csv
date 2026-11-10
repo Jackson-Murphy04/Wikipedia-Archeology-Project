@@ -1,0 +1,21 @@
+article_title,timestamp,revisions,article_median,robust_threshold,context_claim,source_title,source_url,source_date,assessment
+World War II,2006-04-01 00:00:00+00:00,1588,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-03-01 00:00:00+00:00,1333,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+Arab Spring,2011-03-01 00:00:00+00:00,1046,16.0,60.478,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-09-01 00:00:00+00:00,1022,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+September 11 attacks,2006-09-01 00:00:00+00:00,865,35.0,128.4038,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-08-01 00:00:00+00:00,849,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-02-01 00:00:00+00:00,848,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War II,2005-12-01 00:00:00+00:00,769,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War I,2006-04-01 00:00:00+00:00,761,33.0,108.6126,,,,,Uninvestigated; correlation does not establish cause
+World War I,2006-03-01 00:00:00+00:00,705,33.0,108.6126,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-01-01 00:00:00+00:00,689,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War II,2005-11-01 00:00:00+00:00,683,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+World War II,2006-07-01 00:00:00+00:00,682,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+Vietnam War,2007-04-01 00:00:00+00:00,675,33.0,113.0604,,,,,Uninvestigated; correlation does not establish cause
+World War I,2006-05-01 00:00:00+00:00,651,33.0,108.6126,,,,,Uninvestigated; correlation does not establish cause
+World War II,2007-02-01 00:00:00+00:00,649,40.0,128.95600000000002,,,,,Uninvestigated; correlation does not establish cause
+September 11 attacks,2005-12-01 00:00:00+00:00,648,35.0,128.4038,,,,,Uninvestigated; correlation does not establish cause
+American Civil War,2006-07-01 00:00:00+00:00,639,27.0,84.8214,,,,,Uninvestigated; correlation does not establish cause
+Great Depression,2007-03-01 00:00:00+00:00,639,9.0,35.6868,,,,,Uninvestigated; correlation does not establish cause
+Arab Spring,2011-02-01 00:00:00+00:00,2050,16.0,60.478,"The 2011 wave of protests is documented in historical timelines; February included key developments in Egypt. This is contemporaneous context, not proof that protests caused the Wikipedia spike.","EU Institute for Security Studies, Timeline 2011",https://www.iss.europa.eu/sites/default/files/3.1__Timeline_2011.pdf,2011 timeline,Temporal context independently documented; causal relationship unproven

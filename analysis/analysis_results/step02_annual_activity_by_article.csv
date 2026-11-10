@@ -1,0 +1,745 @@
+year,article_title,revisions
+2001,American Civil War,3
+2001,American Revolution,1
+2001,Battle of Gettysburg,30
+2001,Black Death,21
+2001,Boston Tea Party,5
+2001,Cuban Missile Crisis,3
+2001,Emancipation Proclamation,2
+2001,Great Depression,3
+2001,Great Fire of London,6
+2001,Gulf War,21
+2001,Korean War,5
+2001,Renaissance,8
+2001,Russian Revolution,2
+2001,September 11 attacks,10
+2001,Vietnam War,11
+2001,Watergate scandal,3
+2001,World War I,13
+2001,World War II,5
+2002,American Civil War,35
+2002,American Revolution,1
+2002,Battle of Gettysburg,24
+2002,Black Death,14
+2002,Boston Tea Party,12
+2002,Cuban Missile Crisis,19
+2002,Cultural Revolution,8
+2002,Emancipation Proclamation,19
+2002,Great Depression,26
+2002,Great Fire of London,13
+2002,Gulf War,52
+2002,Korean War,20
+2002,Magna Carta,32
+2002,Mexican Revolution,4
+2002,Renaissance,30
+2002,Russian Revolution,17
+2002,September 11 attacks,93
+2002,Vietnam War,108
+2002,Watergate scandal,25
+2002,World War I,78
+2002,World War II,101
+2003,American Civil War,168
+2003,American Revolution,22
+2003,Assassination of John F. Kennedy,116
+2003,Battle of Gettysburg,10
+2003,Black Death,31
+2003,Boston Tea Party,18
+2003,Cold War,26
+2003,Cuban Missile Crisis,46
+2003,Cultural Revolution,95
+2003,Emancipation Proclamation,15
+2003,Great Depression,86
+2003,Great Fire of London,37
+2003,Gulf War,126
+2003,Iranian Revolution,5
+2003,Korean War,51
+2003,Magna Carta,12
+2003,Mexican Revolution,10
+2003,Partition of India,1
+2003,Renaissance,33
+2003,Russian Revolution,33
+2003,September 11 attacks,356
+2003,Vietnam War,195
+2003,Watergate scandal,63
+2003,World War I,179
+2003,World War II,509
+2004,American Civil War,391
+2004,American Revolution,163
+2004,Assassination of John F. Kennedy,715
+2004,Atomic bombings of Hiroshima and Nagasaki,363
+2004,Battle of Gettysburg,65
+2004,Black Death,138
+2004,Boston Tea Party,50
+2004,Cold War,209
+2004,Cuban Missile Crisis,112
+2004,Cultural Revolution,148
+2004,Emancipation Proclamation,47
+2004,Great Depression,230
+2004,Great Fire of London,40
+2004,Gulf War,212
+2004,Haitian Revolution,14
+2004,Iranian Revolution,144
+2004,Korean War,221
+2004,Magna Carta,115
+2004,Mexican Revolution,31
+2004,Partition of India,144
+2004,Renaissance,292
+2004,Russian Revolution,119
+2004,September 11 attacks,1353
+2004,Vietnam War,539
+2004,Watergate scandal,210
+2004,World War I,715
+2004,World War II,944
+2005,American Civil War,1231
+2005,American Revolution,678
+2005,Assassination of John F. Kennedy,807
+2005,Atomic bombings of Hiroshima and Nagasaki,1186
+2005,Battle of Gettysburg,312
+2005,Black Death,856
+2005,Boston Tea Party,260
+2005,Cold War,1308
+2005,Cuban Missile Crisis,452
+2005,Cultural Revolution,306
+2005,Emancipation Proclamation,173
+2005,Great Depression,1076
+2005,Great Fire of London,109
+2005,Gulf War,745
+2005,Haitian Revolution,43
+2005,Iranian Revolution,141
+2005,Korean War,1062
+2005,Magna Carta,279
+2005,Mexican Revolution,112
+2005,Partition of India,206
+2005,Renaissance,526
+2005,Russian Revolution,443
+2005,September 11 attacks,3179
+2005,Vietnam War,1836
+2005,Watergate scandal,550
+2005,World War I,1967
+2005,World War II,4375
+2006,American Civil War,4743
+2006,American Revolution,1993
+2006,Assassination of John F. Kennedy,1991
+2006,Atomic bombings of Hiroshima and Nagasaki,2397
+2006,Battle of Gettysburg,1048
+2006,Black Death,2017
+2006,Boston Tea Party,943
+2006,Cold War,3245
+2006,Cuban Missile Crisis,1200
+2006,Cultural Revolution,650
+2006,Emancipation Proclamation,643
+2006,Great Depression,3636
+2006,Great Fire of London,1085
+2006,Gulf War,1814
+2006,Haitian Revolution,265
+2006,Iranian Revolution,731
+2006,Korean War,2643
+2006,Magna Carta,1038
+2006,Mexican Revolution,713
+2006,Partition of India,426
+2006,Renaissance,2082
+2006,Russian Revolution,1086
+2006,September 11 attacks,5658
+2006,Vietnam War,4036
+2006,Watergate scandal,1245
+2006,World War I,5481
+2006,World War II,8549
+2007,American Civil War,1141
+2007,American Revolution,794
+2007,Assassination of John F. Kennedy,1367
+2007,Atomic bombings of Hiroshima and Nagasaki,841
+2007,Battle of Gettysburg,1723
+2007,Black Death,2615
+2007,Boston Tea Party,219
+2007,Cold War,1167
+2007,Cuban Missile Crisis,1798
+2007,Cultural Revolution,697
+2007,Emancipation Proclamation,922
+2007,Great Depression,2389
+2007,Great Fire of London,491
+2007,Gulf War,2077
+2007,Haitian Revolution,282
+2007,Iranian Revolution,851
+2007,Korean War,1892
+2007,Magna Carta,1021
+2007,Mexican Revolution,475
+2007,Partition of India,508
+2007,Renaissance,1548
+2007,Russian Revolution,1222
+2007,September 11 attacks,1511
+2007,Sinking of the Titanic,181
+2007,Vietnam War,2666
+2007,Watergate scandal,1451
+2007,World War I,2673
+2007,World War II,3428
+2008,American Civil War,599
+2008,American Revolution,833
+2008,Assassination of John F. Kennedy,1213
+2008,Atomic bombings of Hiroshima and Nagasaki,412
+2008,Battle of Gettysburg,245
+2008,Black Death,1568
+2008,Boston Tea Party,607
+2008,Cold War,1143
+2008,Cuban Missile Crisis,1151
+2008,Cultural Revolution,443
+2008,Emancipation Proclamation,353
+2008,Great Depression,1157
+2008,Great Fire of London,404
+2008,Gulf War,1510
+2008,Haitian Revolution,212
+2008,Iranian Revolution,393
+2008,Korean War,1113
+2008,Magna Carta,1223
+2008,Mexican Revolution,472
+2008,Partition of India,304
+2008,Renaissance,293
+2008,Russian Revolution,665
+2008,September 11 attacks,1531
+2008,Sinking of the Titanic,299
+2008,Vietnam War,1330
+2008,Watergate scandal,1000
+2008,World War I,851
+2008,World War II,1344
+2009,American Civil War,446
+2009,American Revolution,320
+2009,Assassination of John F. Kennedy,1433
+2009,Atomic bombings of Hiroshima and Nagasaki,188
+2009,Battle of Gettysburg,116
+2009,Black Death,1072
+2009,Boston Tea Party,532
+2009,Cold War,426
+2009,Cuban Missile Crisis,795
+2009,Cultural Revolution,386
+2009,Emancipation Proclamation,626
+2009,Great Depression,550
+2009,Great Fire of London,317
+2009,Gulf War,1291
+2009,Haitian Revolution,228
+2009,Iranian Revolution,465
+2009,Korean War,1372
+2009,Magna Carta,884
+2009,Mexican Revolution,313
+2009,Partition of India,112
+2009,Renaissance,1146
+2009,Russian Revolution,517
+2009,September 11 attacks,817
+2009,Sinking of the Titanic,178
+2009,Vietnam War,555
+2009,Watergate scandal,632
+2009,World War I,778
+2009,World War II,1090
+2010,American Civil War,451
+2010,American Revolution,610
+2010,Assassination of John F. Kennedy,813
+2010,Atomic bombings of Hiroshima and Nagasaki,369
+2010,Battle of Gettysburg,397
+2010,Black Death,648
+2010,Boston Tea Party,116
+2010,Chinese Revolution,2
+2010,Cold War,740
+2010,Cuban Missile Crisis,575
+2010,Cultural Revolution,376
+2010,Emancipation Proclamation,162
+2010,Great Depression,153
+2010,Great Fire of London,140
+2010,Gulf War,1203
+2010,Haitian Revolution,246
+2010,Iranian Revolution,274
+2010,Korean War,919
+2010,Magna Carta,1051
+2010,Mexican Revolution,319
+2010,Partition of India,81
+2010,Renaissance,292
+2010,Russian Revolution,148
+2010,September 11 attacks,594
+2010,Sinking of the Titanic,192
+2010,Vietnam War,800
+2010,Watergate scandal,610
+2010,World War I,1016
+2010,World War II,963
+2011,American Civil War,413
+2011,American Revolution,225
+2011,Arab Spring,5491
+2011,Assassination of John F. Kennedy,1071
+2011,Atomic bombings of Hiroshima and Nagasaki,212
+2011,Battle of Gettysburg,653
+2011,Black Death,216
+2011,Boston Tea Party,85
+2011,Chinese Revolution,8
+2011,Cold War,733
+2011,Cuban Missile Crisis,687
+2011,Cultural Revolution,487
+2011,Emancipation Proclamation,349
+2011,Great Depression,134
+2011,Great Fire of London,103
+2011,Gulf War,611
+2011,Haitian Revolution,191
+2011,Iranian Revolution,265
+2011,Korean War,395
+2011,Magna Carta,431
+2011,Mexican Revolution,261
+2011,Partition of India,267
+2011,Renaissance,941
+2011,Russian Revolution,38
+2011,September 11 attacks,1537
+2011,Sinking of the Titanic,214
+2011,Vietnam War,296
+2011,Watergate scandal,408
+2011,World War I,421
+2011,World War II,363
+2012,American Civil War,634
+2012,American Revolution,261
+2012,Arab Spring,1520
+2012,Assassination of John F. Kennedy,793
+2012,Atomic bombings of Hiroshima and Nagasaki,340
+2012,Battle of Gettysburg,175
+2012,Black Death,123
+2012,Boston Tea Party,231
+2012,Chinese Revolution,8
+2012,Cold War,296
+2012,Cuban Missile Crisis,641
+2012,Cultural Revolution,305
+2012,Emancipation Proclamation,565
+2012,Great Depression,94
+2012,Great Fire of London,59
+2012,Gulf War,609
+2012,Haitian Revolution,150
+2012,Iranian Revolution,278
+2012,Korean War,486
+2012,Magna Carta,527
+2012,Mexican Revolution,199
+2012,Partition of India,332
+2012,Renaissance,152
+2012,Russian Revolution,80
+2012,September 11 attacks,473
+2012,Sinking of the Titanic,1277
+2012,Vietnam War,420
+2012,Watergate scandal,367
+2012,World War I,368
+2012,World War II,342
+2013,American Civil War,343
+2013,American Revolution,303
+2013,Arab Spring,590
+2013,Assassination of John F. Kennedy,480
+2013,Atomic bombings of Hiroshima and Nagasaki,492
+2013,Battle of Gettysburg,84
+2013,Black Death,114
+2013,Boston Tea Party,53
+2013,Chinese Revolution,25
+2013,Cold War,142
+2013,Cuban Missile Crisis,467
+2013,Cultural Revolution,70
+2013,Emancipation Proclamation,500
+2013,Great Depression,127
+2013,Great Fire of London,14
+2013,Gulf War,534
+2013,Haitian Revolution,182
+2013,Iranian Revolution,279
+2013,Korean War,491
+2013,Magna Carta,290
+2013,Mexican Revolution,256
+2013,Partition of India,408
+2013,Renaissance,85
+2013,Russian Revolution,59
+2013,September 11 attacks,256
+2013,Sinking of the Titanic,265
+2013,Vietnam War,817
+2013,Watergate scandal,337
+2013,World War I,480
+2013,World War II,756
+2014,American Civil War,303
+2014,American Revolution,169
+2014,Arab Spring,368
+2014,Assassination of John F. Kennedy,460
+2014,Atomic bombings of Hiroshima and Nagasaki,356
+2014,Battle of Gettysburg,43
+2014,Black Death,111
+2014,Boston Tea Party,40
+2014,Chinese Revolution,1
+2014,Cold War,304
+2014,Cuban Missile Crisis,269
+2014,Cultural Revolution,150
+2014,Emancipation Proclamation,248
+2014,Great Depression,218
+2014,Great Fire of London,37
+2014,Gulf War,529
+2014,Haitian Revolution,209
+2014,Iranian Revolution,182
+2014,Korean War,327
+2014,Magna Carta,770
+2014,Mexican Revolution,153
+2014,Partition of India,150
+2014,Renaissance,270
+2014,Russian Revolution,37
+2014,September 11 attacks,245
+2014,Sinking of the Titanic,231
+2014,Vietnam War,465
+2014,Watergate scandal,368
+2014,World War I,517
+2014,World War II,597
+2015,American Civil War,338
+2015,American Revolution,185
+2015,Arab Spring,371
+2015,Assassination of John F. Kennedy,504
+2015,Atomic bombings of Hiroshima and Nagasaki,228
+2015,Battle of Gettysburg,79
+2015,Black Death,84
+2015,Boston Tea Party,43
+2015,Chinese Revolution,9
+2015,Cold War,114
+2015,Cuban Missile Crisis,243
+2015,Cultural Revolution,93
+2015,Emancipation Proclamation,325
+2015,Great Depression,723
+2015,Great Fire of London,34
+2015,Gulf War,418
+2015,Haitian Revolution,248
+2015,Iranian Revolution,274
+2015,Korean War,227
+2015,Magna Carta,803
+2015,Mexican Revolution,450
+2015,Partition of India,142
+2015,Renaissance,112
+2015,Russian Revolution,31
+2015,September 11 attacks,431
+2015,Sinking of the Titanic,317
+2015,Vietnam War,469
+2015,Watergate scandal,342
+2015,World War I,422
+2015,World War II,368
+2016,American Civil War,253
+2016,American Revolution,85
+2016,Arab Spring,247
+2016,Assassination of John F. Kennedy,492
+2016,Atomic bombings of Hiroshima and Nagasaki,248
+2016,Battle of Gettysburg,102
+2016,Black Death,76
+2016,Boston Tea Party,25
+2016,Chinese Revolution,11
+2016,Cold War,118
+2016,Cuban Missile Crisis,326
+2016,Cultural Revolution,99
+2016,Emancipation Proclamation,204
+2016,Great Depression,80
+2016,Great Fire of London,44
+2016,Gulf War,528
+2016,Haitian Revolution,255
+2016,Iranian Revolution,231
+2016,Korean War,200
+2016,Magna Carta,78
+2016,Mexican Revolution,123
+2016,Partition of India,322
+2016,Renaissance,66
+2016,Russian Revolution,48
+2016,September 11 attacks,309
+2016,Sinking of the Titanic,277
+2016,Vietnam War,305
+2016,Watergate scandal,274
+2016,World War I,158
+2016,World War II,318
+2017,American Civil War,289
+2017,American Revolution,136
+2017,Arab Spring,218
+2017,Assassination of John F. Kennedy,593
+2017,Atomic bombings of Hiroshima and Nagasaki,229
+2017,Battle of Gettysburg,98
+2017,Black Death,116
+2017,Boston Tea Party,35
+2017,Chinese Revolution,14
+2017,Cold War,564
+2017,Cuban Missile Crisis,363
+2017,Cultural Revolution,45
+2017,Emancipation Proclamation,215
+2017,Great Depression,112
+2017,Great Fire of London,83
+2017,Gulf War,313
+2017,Haitian Revolution,183
+2017,Iranian Revolution,232
+2017,Korean War,290
+2017,Magna Carta,49
+2017,Mexican Revolution,145
+2017,Partition of India,434
+2017,Renaissance,50
+2017,Russian Revolution,58
+2017,September 11 attacks,262
+2017,Sinking of the Titanic,365
+2017,Vietnam War,321
+2017,Watergate scandal,333
+2017,World War I,380
+2017,World War II,496
+2018,American Civil War,306
+2018,American Revolution,172
+2018,Arab Spring,233
+2018,Assassination of John F. Kennedy,326
+2018,Atomic bombings of Hiroshima and Nagasaki,393
+2018,Battle of Gettysburg,36
+2018,Black Death,92
+2018,Boston Tea Party,41
+2018,Chinese Revolution,2
+2018,Cold War,200
+2018,Cuban Missile Crisis,405
+2018,Cultural Revolution,86
+2018,Emancipation Proclamation,204
+2018,Great Depression,103
+2018,Great Fire of London,170
+2018,Gulf War,178
+2018,Haitian Revolution,112
+2018,Iranian Revolution,220
+2018,Korean War,363
+2018,Magna Carta,40
+2018,Mexican Revolution,157
+2018,Partition of India,205
+2018,Renaissance,80
+2018,Russian Revolution,95
+2018,September 11 attacks,336
+2018,Sinking of the Titanic,129
+2018,Vietnam War,1076
+2018,Watergate scandal,105
+2018,World War I,504
+2018,World War II,606
+2019,American Civil War,186
+2019,American Revolution,182
+2019,Arab Spring,353
+2019,Assassination of John F. Kennedy,119
+2019,Atomic bombings of Hiroshima and Nagasaki,166
+2019,Battle of Gettysburg,37
+2019,Black Death,82
+2019,Boston Tea Party,12
+2019,Chinese Revolution,5
+2019,Cold War,544
+2019,Cuban Missile Crisis,263
+2019,Cultural Revolution,113
+2019,Emancipation Proclamation,53
+2019,Fall of the Berlin Wall,180
+2019,Great Depression,104
+2019,Great Fire of London,158
+2019,Gulf War,126
+2019,Haitian Revolution,80
+2019,Iranian Revolution,221
+2019,Korean War,312
+2019,Magna Carta,34
+2019,Mexican Revolution,264
+2019,Partition of India,331
+2019,Renaissance,130
+2019,Russian Revolution,121
+2019,September 11 attacks,240
+2019,Sinking of the Titanic,386
+2019,Vietnam War,681
+2019,Watergate scandal,310
+2019,World War I,276
+2019,World War II,346
+2020,American Civil War,254
+2020,American Revolution,135
+2020,Arab Spring,155
+2020,Assassination of John F. Kennedy,167
+2020,Atomic bombings of Hiroshima and Nagasaki,140
+2020,Battle of Gettysburg,51
+2020,Black Death,520
+2020,Boston Tea Party,34
+2020,Chinese Revolution,11
+2020,Cold War,235
+2020,Cuban Missile Crisis,219
+2020,Cultural Revolution,302
+2020,Emancipation Proclamation,100
+2020,Fall of the Berlin Wall,102
+2020,Great Depression,87
+2020,Great Fire of London,173
+2020,Gulf War,109
+2020,Haitian Revolution,136
+2020,Iranian Revolution,237
+2020,Korean War,256
+2020,Magna Carta,36
+2020,Mexican Revolution,289
+2020,Partition of India,274
+2020,Renaissance,47
+2020,Russian Revolution,98
+2020,September 11 attacks,239
+2020,Sinking of the Titanic,387
+2020,Vietnam War,295
+2020,Watergate scandal,169
+2020,World War I,306
+2020,World War II,377
+2021,American Civil War,386
+2021,American Revolution,292
+2021,Arab Spring,162
+2021,Assassination of John F. Kennedy,107
+2021,Atomic bombings of Hiroshima and Nagasaki,174
+2021,Battle of Gettysburg,35
+2021,Black Death,198
+2021,Boston Tea Party,26
+2021,Chinese Revolution,2
+2021,Cold War,250
+2021,Cuban Missile Crisis,186
+2021,Cultural Revolution,176
+2021,Emancipation Proclamation,53
+2021,Fall of the Berlin Wall,31
+2021,Great Depression,55
+2021,Great Fire of London,183
+2021,Gulf War,240
+2021,Haitian Revolution,51
+2021,Iranian Revolution,160
+2021,Korean War,265
+2021,Magna Carta,37
+2021,Mexican Revolution,345
+2021,Partition of India,347
+2021,Renaissance,72
+2021,Russian Revolution,36
+2021,September 11 attacks,452
+2021,Sinking of the Titanic,176
+2021,Vietnam War,305
+2021,Watergate scandal,169
+2021,World War I,388
+2021,World War II,375
+2022,American Civil War,653
+2022,American Revolution,272
+2022,Arab Spring,102
+2022,Assassination of John F. Kennedy,105
+2022,Atomic bombings of Hiroshima and Nagasaki,170
+2022,Battle of Gettysburg,170
+2022,Black Death,156
+2022,Boston Tea Party,35
+2022,Chinese Revolution,1
+2022,Cold War,157
+2022,Cuban Missile Crisis,246
+2022,Cultural Revolution,252
+2022,Emancipation Proclamation,194
+2022,Fall of the Berlin Wall,50
+2022,Great Depression,121
+2022,Great Fire of London,130
+2022,Gulf War,239
+2022,Haitian Revolution,74
+2022,Iranian Revolution,239
+2022,Korean War,259
+2022,Magna Carta,42
+2022,Mexican Revolution,159
+2022,Partition of India,333
+2022,Renaissance,59
+2022,Russian Revolution,105
+2022,September 11 attacks,560
+2022,Sinking of the Titanic,264
+2022,Vietnam War,278
+2022,Watergate scandal,158
+2022,World War I,602
+2022,World War II,415
+2023,American Civil War,275
+2023,American Revolution,212
+2023,Arab Spring,128
+2023,Assassination of John F. Kennedy,1062
+2023,Atomic bombings of Hiroshima and Nagasaki,239
+2023,Battle of Gettysburg,243
+2023,Black Death,114
+2023,Boston Tea Party,53
+2023,Chinese Revolution,7
+2023,Cold War,196
+2023,Cuban Missile Crisis,328
+2023,Cultural Revolution,356
+2023,Emancipation Proclamation,130
+2023,Fall of the Berlin Wall,49
+2023,Great Depression,61
+2023,Great Fire of London,91
+2023,Gulf War,176
+2023,Haitian Revolution,114
+2023,Iranian Revolution,206
+2023,Korean War,388
+2023,Magna Carta,51
+2023,Mexican Revolution,106
+2023,Partition of India,200
+2023,Renaissance,103
+2023,Russian Revolution,87
+2023,September 11 attacks,684
+2023,Sinking of the Titanic,263
+2023,Vietnam War,499
+2023,Watergate scandal,153
+2023,World War I,560
+2023,World War II,483
+2024,American Civil War,524
+2024,American Revolution,327
+2024,Arab Spring,149
+2024,Assassination of John F. Kennedy,127
+2024,Atomic bombings of Hiroshima and Nagasaki,180
+2024,Battle of Gettysburg,65
+2024,Black Death,100
+2024,Boston Tea Party,34
+2024,Chinese Revolution,2
+2024,Cold War,250
+2024,Cuban Missile Crisis,245
+2024,Cultural Revolution,311
+2024,Emancipation Proclamation,62
+2024,Fall of the Berlin Wall,54
+2024,Great Depression,100
+2024,Great Fire of London,88
+2024,Gulf War,192
+2024,Haitian Revolution,53
+2024,Iranian Revolution,250
+2024,Korean War,346
+2024,Magna Carta,97
+2024,Mexican Revolution,88
+2024,Partition of India,244
+2024,Renaissance,101
+2024,Russian Revolution,68
+2024,September 11 attacks,525
+2024,Sinking of the Titanic,177
+2024,Vietnam War,383
+2024,Watergate scandal,154
+2024,World War I,587
+2024,World War II,382
+2025,American Civil War,309
+2025,American Revolution,247
+2025,Arab Spring,187
+2025,Assassination of John F. Kennedy,229
+2025,Atomic bombings of Hiroshima and Nagasaki,158
+2025,Battle of Gettysburg,74
+2025,Black Death,50
+2025,Boston Tea Party,64
+2025,Cold War,145
+2025,Cuban Missile Crisis,176
+2025,Cultural Revolution,232
+2025,Emancipation Proclamation,120
+2025,Fall of the Berlin Wall,37
+2025,Great Depression,72
+2025,Great Fire of London,127
+2025,Gulf War,152
+2025,Haitian Revolution,82
+2025,Iranian Revolution,263
+2025,Korean War,373
+2025,Magna Carta,67
+2025,Mexican Revolution,88
+2025,Partition of India,58
+2025,Renaissance,54
+2025,Russian Revolution,71
+2025,September 11 attacks,457
+2025,Sinking of the Titanic,200
+2025,Vietnam War,422
+2025,Watergate scandal,281
+2025,World War I,351
+2025,World War II,472
+2026,American Civil War,256
+2026,American Revolution,339
+2026,Arab Spring,75
+2026,Assassination of John F. Kennedy,92
+2026,Atomic bombings of Hiroshima and Nagasaki,84
+2026,Battle of Gettysburg,43
+2026,Black Death,124
+2026,Boston Tea Party,70
+2026,Cold War,90
+2026,Cuban Missile Crisis,150
+2026,Cultural Revolution,122
+2026,Emancipation Proclamation,51
+2026,Fall of the Berlin Wall,39
+2026,Great Depression,58
+2026,Great Fire of London,57
+2026,Gulf War,127
+2026,Haitian Revolution,76
+2026,Iranian Revolution,249
+2026,Korean War,473
+2026,Magna Carta,27
+2026,Mexican Revolution,34
+2026,Partition of India,34
+2026,Renaissance,73
+2026,Russian Revolution,38
+2026,September 11 attacks,477
+2026,Sinking of the Titanic,252
+2026,Vietnam War,270
+2026,Watergate scandal,238
+2026,World War I,206
+2026,World War II,605

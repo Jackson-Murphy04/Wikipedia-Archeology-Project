@@ -1,0 +1,2 @@
+revision_records,articles,unique_nonempty_usernames,mean_revisions_per_article,median_revisions_per_article,earliest_timestamp_utc,latest_timestamp_utc,coverage_days,invalid_timestamp_rows
+313269,31,88233,10105.451612903225,9034.0,2001-05-14 08:28:10+00:00,2026-11-10 06:27:03+00:00,9310.915891203704,0

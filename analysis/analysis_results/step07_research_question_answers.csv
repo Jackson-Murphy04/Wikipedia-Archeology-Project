@@ -1,0 +1,6 @@
+research_question,answer,evidence,confidence
+How does coverage of historical events evolve over time?,Describe observed revision timelines and article byte-size trajectories; the collected records may be incomplete or sampled.,step02_monthly_activity_by_article.csv; step03_article_growth.csv,Descriptive
+When do substantial changes occur?,Use per-article monthly robust outliers and large observed byte changes; these are candidate events.,step02_article_monthly_spikes.csv; step03_largest_size_changes.csv,Descriptive
+Do spikes coincide with public attention or related events?,Not established by revision metadata. Requires independently dated external sources for each spike.,step02_spike_context_review.csv,Unverified
+What kinds of changes are made to historical information?,"The sample diff review documents vandalism/reversion, maintenance templates, a bibliography addition, and a casualty-list removal; it cannot characterize all changes or establish the correctness of claims.",step05_revision_case_studies.csv,Observed in selected diffs; limited sample
+Do patterns differ between event types?,Compare category medians and distributions while accounting for category/article counts.,step06_category_summary.csv,Descriptive; mapping-sensitive

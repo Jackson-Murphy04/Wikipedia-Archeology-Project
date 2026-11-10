@@ -1,0 +1,6 @@
+Python 3.10+
+pandas
+numpy
+matplotlib
+requests (Step 5 diff retrieval)
+Jupyter Notebook or JupyterLab
