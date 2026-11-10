@@ -1,0 +1,51 @@
+article,revisions,status
+Vietnam War,19378.0,Success
+Watergate scandal,9955.0,Success
+Chernobyl disaster,,"Could not identify revision count for Chernobyl disaster. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+World War II,28609.0,Success
+September 11 attacks,22585.0,Success
+American Revolution,8957.0,Success
+French Revolution,,"Could not identify revision count for French Revolution. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+American Civil War,14930.0,Success
+World War I,20277.0,Success
+Cold War,12602.0,Success
+Fall of the Berlin Wall,542.0,Success
+Russian Revolution,5322.0,Success
+Industrial Revolution,,"Could not identify revision count for Industrial Revolution. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+Great Depression,11555.0,Success
+Holocaust,10.0,Success
+Pearl Harbor attack,,"Could not identify revision count for Pearl Harbor attack. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+D-Day,11.0,Success
+Atomic bombings of Hiroshima and Nagasaki,9565.0,Success
+Korean War,14749.0,Success
+Cuban Missile Crisis,11365.0,Success
+Apollo 11 Moon landing,,404 Client Error: Not Found for url: https://xtools.wmcloud.org/api/page/articleinfo/en.wikipedia.org/Apollo_11_Moon_landing
+Civil Rights Movement,13.0,Success
+Assassination of John F. Kennedy,15182.0,Success
+Boston Tea Party,3643.0,Success
+Declaration of Independence,40.0,Success
+Battle of Gettysburg,5958.0,Success
+Emancipation Proclamation,6334.0,Success
+Spanish-American War,9.0,Success
+Great Fire of London,4193.0,Success
+Black Death,11256.0,Success
+Protestant Reformation,4.0,Success
+Renaissance,8645.0,Success
+Magna Carta,9034.0,Success
+Fall of Constantinople,,"Could not identify revision count for Fall of Constantinople. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+Sinking of the Titanic,6030.0,Success
+Russian Civil War,,"Could not identify revision count for Russian Civil War. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+Chinese Revolution,108.0,Success
+Cultural Revolution,6308.0,Success
+Vietnamese Declaration of Independence,2.0,Success
+Indian Independence Movement,6.0,Success
+Partition of India,5862.0,Success
+Rwandan Genocide,7.0,Success
+Apartheid in South Africa,63.0,Success
+Iranian Revolution,6785.0,Success
+Gulf War,14131.0,Success
+Iraq War,,"Could not identify revision count for Iraq War. API returned keys: ['project', 'page', 'watchers', 'pageviews', 'pageviews_offset', 'error', 'elapsed_time']"
+Arab Spring,10346.0,Success
+Fukushima nuclear disaster,14.0,Success
+Haitian Revolution,3486.0,Success
+Mexican Revolution,5566.0,Success

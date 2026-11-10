@@ -8,15 +8,25 @@ import requests
 
 API = "https://en.wikipedia.org/w/api.php"
 
-ARTICLES = [
-    "Vietnam War",
-    "Watergate scandal",
-    "Chernobyl disaster",
-    "World War II",
-    "September 11 attacks",
-]
+# og articles
+#ARTICLES = [
+#    "Vietnam War",
+#    "Watergate scandal",
+#    "Chernobyl disaster",
+#    "World War II",
+#    "September 11 attacks",
+#]
 
-MAX_PER_ARTICLE = 2000
+# new list
+# Load cleaned article list
+article_list_path = Path(__file__).resolve().parent.parent / "articleLists" / "cleaned_articles.txt"
+
+with open(article_list_path, "r", encoding="utf-8") as file:
+    exec(file.read())
+
+print(f"Loaded {len(ARTICLES)} articles")
+
+# MAX_PER_ARTICLE = 2000
 
 BASE = Path(__file__).resolve().parent
 RAW = BASE / "raw"
@@ -34,7 +44,8 @@ def collect_article(title):
     revisions = []
     continuation = {}
 
-    while len(revisions) < MAX_PER_ARTICLE:
+    # while len(revisions) < MAX_PER_ARTICLE:
+    while True:
         params = {
             "action": "query",
             "format": "json",
@@ -42,7 +53,8 @@ def collect_article(title):
             "prop": "revisions",
             "titles": title,
             "rvprop": "ids|timestamp|user|userid|comment|size|flags",
-            "rvlimit": min(500, MAX_PER_ARTICLE - len(revisions)),
+            # "rvlimit": min(500, MAX_PER_ARTICLE - len(revisions)),
+            "rvlimit": 500,
             "rvdir": "older",
             "maxlag": 5,
             **continuation
