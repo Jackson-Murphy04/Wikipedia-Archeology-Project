@@ -1,0 +1,24 @@
+Dataset scale
+The dataset contains 313,269 revisions across 31 articles.
+
+Most edited article
+World War II has 28,609 collected revisions.
+
+Largest average article
+Arab Spring has the largest average revision size at 178,833 bytes.
+
+Contributor participation
+World War II has the most identified contributors (8,826).
+
+Minor edit patterns
+World War II has the highest proportion of edits marked minor (100.0%).
+
+Contributor metadata
+100.0% of revisions have a username other than Unknown.
+
+Article size
+The median revision size is 91,937 bytes and the mean is 109,681 bytes.
+
+Unusual activity
+49 months exceed the robust unusual-activity threshold.
+
