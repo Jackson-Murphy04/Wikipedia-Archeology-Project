@@ -1,0 +1,436 @@
+# Wikipedia Digital Archaeology Project
+## Analysis Plan & Task Checklist
+
+**Purpose:** This document outlines the remaining analysis work for the Wikipedia historical revision project. It serves as a roadmap for extracting meaningful insights from the collected and cleaned revision data and preparing the final project report.
+
+The analysis should focus on understanding how Wikipedia articles documenting major historical events evolve over time, how editing activity changes, and what revision patterns can reveal about the way history is documented online.
+
+We should complete the tasks in order, saving relevant statistics, visualizations, and examples as we go. Findings should be supported by the actual dataset rather than assumptions.
+
+---
+
+# 1. Dataset Overview and Validation
+
+**Goal:** Establish what data we have and understand the overall scope and quality of the dataset before conducting deeper analysis.
+
+### Subtasks
+
+- [ ] **Calculate overall dataset statistics**
+  - Total number of revision records.
+  - Total number of articles included.
+  - Number of unique editors.
+  - Average and median revisions per article.
+  - Earliest and latest revision timestamps.
+  - Date range covered by the dataset.
+
+- [ ] **Examine data completeness**
+  - Check for missing timestamps, revision IDs, usernames, edit comments, and article sizes.
+  - Calculate the percentage of records with missing values for important fields.
+  - Identify any articles with unusually incomplete revision histories.
+
+- [ ] **Validate revision records**
+  - Check for duplicate revision IDs.
+  - Confirm timestamps can be parsed consistently.
+  - Check that revision records are ordered correctly.
+  - Identify any unexpected or inconsistent values.
+
+- [ ] **Summarize article coverage**
+  - Count revisions per article.
+  - Identify articles with the most and fewest revisions.
+  - Examine whether certain historical events dominate the dataset.
+
+### Data needed
+- Cleaned revision dataset.
+- Article titles and revision metadata.
+- Relevant fields: `article_title`, `revision_id`, `timestamp`, `username`, `user_id`, `article_size_bytes`, and `edit_comment`.
+
+### Expected outputs
+- Dataset summary table.
+- Missing-data and validation report.
+- Revision count by article.
+- Basic dataset overview visualization.
+
+### Notes
+This section establishes the foundation for all later findings. It will also provide information for the **Data and Data Collection** and **Data Processing and Quality** sections of the final report.
+
+---
+
+# 2. Temporal Editing Patterns
+
+**Goal:** Determine when Wikipedia articles are edited and identify periods of unusually high or low editing activity.
+
+### Subtasks
+
+- [ ] **Analyze editing activity over time**
+  - Group revisions by year.
+  - Group revisions by month.
+  - Calculate the number of revisions in each time period.
+  - Compare activity across different articles.
+
+- [ ] **Identify editing spikes**
+  - Find periods with unusually high revision counts.
+  - Identify the articles responsible for the largest spikes.
+  - Compare spikes against each article's typical editing activity.
+  - Record the dates and magnitude of significant spikes.
+
+- [ ] **Examine long-term editing trends**
+  - Determine whether articles receive more attention shortly after the historical event or publication of the article.
+  - Identify whether activity remains consistent, declines, or increases over time.
+  - Compare older historical events with more recent events.
+
+- [ ] **Investigate possible explanations**
+  - Research whether major anniversaries, related current events, documentaries, publications, or other developments coincide with editing spikes.
+  - Distinguish confirmed contextual explanations from possible correlations.
+
+### Data needed
+- Revision timestamps.
+- Article titles.
+- Revision counts.
+- External historical context for selected activity spikes, if needed.
+
+### Expected outputs
+- Revisions per year chart.
+- Revisions per month or year-over-year activity chart.
+- Table of the largest editing spikes.
+- A few investigated examples of unusual editing periods.
+
+### Notes
+An editing spike may indicate increased public interest, controversy, or new information, but the revision data alone cannot establish its cause. We should describe possible relationships carefully and support explanations with additional evidence.
+
+---
+
+# 3. Article Growth and Structural Evolution
+
+**Goal:** Understand how the size and development of historical articles change over time.
+
+### Subtasks
+
+- [ ] **Measure article growth**
+  - Identify the earliest and latest recorded article sizes.
+  - Calculate the net change in bytes.
+  - Calculate percentage growth or decline.
+  - Calculate average annual size change where appropriate.
+
+- [ ] **Compare growth across articles**
+  - Identify articles with the greatest overall growth.
+  - Identify articles with the least growth or largest decline.
+  - Compare growth patterns between historical-event categories.
+
+- [ ] **Analyze individual revision changes**
+  - Calculate the byte-size difference between consecutive revisions.
+  - Identify unusually large increases and decreases.
+  - Examine whether large changes occur in isolated revisions or groups of revisions.
+
+- [ ] **Investigate possible structural changes**
+  - Identify revisions that may correspond to major article expansions or reorganizations.
+  - Examine whether sections, references, tables, or other article components changed.
+  - Retrieve article text or revision diffs for selected examples when necessary.
+
+### Data needed
+- `article_size_bytes`.
+- `timestamp`.
+- `revision_id`.
+- `parent_id`.
+- Article text or revision diffs for detailed structural analysis.
+
+### Expected outputs
+- Article size over time chart.
+- Article growth comparison table.
+- List of the largest size increases and decreases.
+- Selected examples of significant article expansions or reorganizations.
+
+### Notes
+Article size is a useful indicator of growth, but it does not necessarily represent the amount of meaningful historical information added. Formatting, references, templates, and other changes can also affect byte counts.
+
+---
+
+# 4. Editor Participation and Behavior
+
+**Goal:** Examine who contributes to Wikipedia articles and how editing activity is distributed among contributors.
+
+### Subtasks
+
+- [ ] **Measure contributor participation**
+  - Calculate the number of unique editors per article.
+  - Calculate revisions per editor.
+  - Identify the most active contributors by revision count.
+  - Compare contributor counts across articles.
+
+- [ ] **Compare registered and anonymous editing**
+  - Separate registered users from anonymous contributors where the metadata permits.
+  - Calculate the percentage of revisions from each group.
+  - Compare anonymous editing patterns across articles.
+
+- [ ] **Measure editing concentration**
+  - Calculate what percentage of revisions come from the top 1, 5, and 10 contributors.
+  - Determine whether editing is concentrated among a small group or distributed across many contributors.
+  - Optionally calculate a Gini coefficient to measure contributor concentration.
+
+- [ ] **Examine minor edits**
+  - Calculate the percentage of revisions marked as minor.
+  - Compare minor-edit frequency across articles.
+  - Investigate whether articles with more activity also have more minor edits.
+
+### Data needed
+- `username`.
+- `user_id`.
+- Minor-edit flags.
+- `article_title`.
+- `revision_id`.
+
+### Expected outputs
+- Registered versus anonymous editing chart.
+- Unique editors per article table.
+- Top contributor concentration table.
+- Minor versus non-minor editing comparison.
+
+### Notes
+Contributor metadata should be interpreted cautiously. A username does not establish a contributor's identity, expertise, motivation, or reliability. We should focus on aggregate editing behavior rather than making assumptions about individual editors.
+
+---
+
+# 5. Significant Revision Events and Content Changes
+
+**Goal:** Identify important revisions that may have substantially changed how historical events are documented or presented.
+
+This is one of the most important parts of the project because it moves beyond counting edits and begins examining the historical information contained in revisions.
+
+### Subtasks
+
+- [ ] **Identify significant revisions**
+  - Find the largest increases in article size.
+  - Find the largest decreases in article size.
+  - Identify periods with unusually frequent revisions.
+  - Identify revisions with potentially meaningful edit summaries.
+  - Flag possible reverts or reversions for further investigation.
+
+- [ ] **Select revisions for deeper inspection**
+  - Choose examples from different articles.
+  - Include early and recent revisions.
+  - Include revisions around major editing spikes.
+  - Include unusually large changes.
+  - Include potential additions, removals, or corrections of historical claims.
+
+- [ ] **Retrieve revision content or diffs**
+  - Retrieve the actual text or revision differences for selected revisions.
+  - Compare each selected revision with its parent revision.
+  - Identify added and removed paragraphs, claims, sections, and references.
+  - Preserve the revision IDs and timestamps for reproducibility.
+
+- [ ] **Classify meaningful changes**
+  - New historical information added.
+  - Existing information removed.
+  - Claims clarified or corrected.
+  - Changes to wording or framing.
+  - References or sources added or removed.
+  - Article structure reorganized.
+  - Reverts or reversions of previous edits.
+
+- [ ] **Document specific examples**
+  - Record the article and revision IDs.
+  - Describe what changed.
+  - Explain why the change is significant.
+  - Include supporting excerpts or screenshots where appropriate.
+
+### Data needed
+- Revision metadata.
+- Parent revision IDs.
+- Actual article text or revision diffs for selected revisions.
+- Edit summaries.
+- Additional source information when interpreting historical claims.
+
+### Expected outputs
+- Significant revision events table.
+- Selected before-and-after revision comparisons.
+- Examples of additions, removals, and changes in framing.
+- A small collection of documented case studies.
+
+### Notes
+The current metadata collection does not contain the full article text. We will need an additional retrieval step for selected revisions to perform this analysis accurately.
+
+Edit summaries can help identify interesting revisions, but they are written by contributors and may be incomplete or misleading. A suspected revert should be verified using revision content or other reliable metadata.
+
+We do not necessarily need to retrieve every revision's full text. A carefully selected sample can provide meaningful examples while keeping the analysis manageable.
+
+---
+
+# 6. Historical Event Category Comparison
+
+**Goal:** Determine whether different types of historical events exhibit different Wikipedia editing patterns.
+
+### Subtasks
+
+- [ ] **Assign article categories**
+  - Wars and military conflicts.
+  - Political events and scandals.
+  - Natural and technological disasters.
+  - Revolutions and independence movements.
+  - Social movements and civil rights.
+  - Other historical developments.
+
+- [ ] **Compare editing activity**
+  - Calculate median revisions per article by category.
+  - Compare average revisions per year.
+  - Compare the number of unique editors.
+  - Compare editing activity over time.
+
+- [ ] **Compare article growth**
+  - Compare average and median article size.
+  - Compare percentage growth.
+  - Identify categories with the largest article expansions.
+
+- [ ] **Compare contributor behavior**
+  - Compare registered and anonymous editing proportions.
+  - Compare contributor concentration.
+  - Compare minor-edit percentages.
+
+- [ ] **Interpret category differences**
+  - Identify meaningful similarities and differences.
+  - Investigate possible explanations.
+  - Determine whether differences are consistent or driven by a small number of articles.
+
+### Data needed
+- Article-to-category mapping.
+- Results from the previous analysis tasks.
+- Article revision and contributor statistics.
+
+### Expected outputs
+- Category comparison table.
+- Category-level editing activity chart.
+- Article growth comparison chart.
+- Summary of notable similarities and differences.
+
+### Notes
+Categories should be assigned consistently and documented. Some events may reasonably fit multiple categories, so we should establish one primary category per article for the main comparison.
+
+Use medians and distributions in addition to averages because a few extremely active articles could skew category results.
+
+---
+
+# 7. Synthesize Findings and Answer Research Questions
+
+**Goal:** Combine the results into a coherent explanation of how Wikipedia articles documenting historical events evolve.
+
+### Subtasks
+
+- [ ] **Review the original research questions**
+  - How does coverage of historical events evolve over time?
+  - When do substantial changes occur?
+  - Do editing spikes coincide with increased public attention or relevant events?
+  - What types of changes are made to historical information?
+  - Do editing patterns differ between types of historical events?
+
+- [ ] **Identify the strongest findings**
+  - Select the most meaningful statistical results.
+  - Select the most compelling revision examples.
+  - Identify patterns that appear across multiple articles.
+  - Identify findings that contradict initial expectations.
+
+- [ ] **Evaluate hypotheses and interpretations**
+  - Determine which questions the data can answer.
+  - Distinguish observed patterns from possible explanations.
+  - Identify conclusions that cannot be supported by the available metadata.
+
+- [ ] **Choose final visualizations**
+  - Select charts that directly support the research questions.
+  - Ensure charts have clear labels, units, titles, and legends.
+  - Avoid including charts that do not contribute to the project's conclusions.
+
+- [ ] **Create a findings summary**
+  - Document each major finding.
+  - Include supporting statistics or examples.
+  - Record relevant limitations.
+  - Connect findings to the overall project objective.
+
+### Expected outputs
+- Final list of major findings.
+- Selected charts and tables.
+- Supporting revision examples.
+- Research-question answer summary.
+
+### Notes
+This stage should focus on explaining what the results mean rather than simply repeating statistics. The strongest conclusions will combine quantitative patterns with specific examples of how article content changed.
+
+---
+
+# 8. Prepare Analysis Artifacts and Final Report
+
+**Goal:** Organize the analysis outputs and use them to produce the final project deliverable.
+
+### Subtasks
+
+- [ ] **Organize analysis code**
+  - Separate analysis scripts into logical modules.
+  - Ensure scripts can be run consistently.
+  - Document required packages and dependencies.
+  - Remove unnecessary experimental code.
+
+- [ ] **Save analysis outputs**
+  - Save generated charts.
+  - Save summary tables as CSV files.
+  - Save significant revision examples.
+  - Save relevant statistical summaries.
+  - Keep a record of the parameters and methods used.
+
+- [ ] **Document reproducibility**
+  - Explain how the dataset was collected.
+  - Explain how it was cleaned and processed.
+  - Document the analysis steps.
+  - Explain how to recreate the outputs.
+  - Document any data files that are not included in the repository and how to obtain them.
+
+- [ ] **Write the final report**
+  - Objective and Motivation.
+  - Data and Data Collection.
+  - Data Processing and Quality.
+  - Methods or Implementation.
+  - Results.
+  - Problems, Limitations, and Interpretation.
+  - Future Work.
+  - Team Contributions.
+
+- [ ] **Review the final deliverable**
+  - Confirm the report is 6–8 pages.
+  - Check formatting, headings, and figure captions.
+  - Include the repository link.
+  - Ensure all findings are supported by evidence.
+  - Verify that required code, documentation, and outputs are available.
+
+### Expected outputs
+- Organized analysis scripts and notebooks.
+- Final visualizations and statistical tables.
+- Reproducible project repository.
+- Completed final report.
+
+---
+
+# Recommended Order of Execution
+
+The following sequence should be used to keep the work organized and avoid spending time on advanced analysis before the dataset is understood.
+
+| Order | Major task | Primary deliverable |
+|---|---|---|
+| 1 | Dataset overview and validation | Dataset summary |
+| 2 | Temporal editing patterns | Activity charts and spike analysis |
+| 3 | Article growth and evolution | Article size and growth analysis |
+| 4 | Editor participation | Contributor statistics |
+| 5 | Significant revision events | Before-and-after content examples |
+| 6 | Category comparison | Cross-category analysis |
+| 7 | Synthesize findings | Research question answers |
+| 8 | Final report and artifacts | Completed project deliverable |
+
+# Important Technical Considerations
+
+1. **Metadata versus article content:** The existing revision collection contains revision metadata, not the full text of every revision. Statistical analyses can begin immediately, but detailed analysis of additions, removals, framing, and structural changes requires retrieving selected revision content or diffs.
+
+2. **Use actual results:** Do not assume that editing spikes correspond to historical anniversaries or that larger articles are necessarily more comprehensive. Investigate and support these interpretations.
+
+3. **Preserve evidence:** Every major finding should have a corresponding statistic, chart, table, or documented revision example.
+
+4. **Keep analysis reproducible:** Save the code and outputs used to generate findings so that the results can be recreated.
+
+5. **Prioritize meaningful findings:** The goal is not to generate as many charts as possible. Each analysis should help answer one of the project's research questions.
+
+---
+
+**Overall objective:** By completing these tasks, we should be able to explain not only how much Wikipedia articles change, but also when they change, how editing participation is distributed, what kinds of changes occur, and what these patterns reveal about the evolving documentation of historical events.
